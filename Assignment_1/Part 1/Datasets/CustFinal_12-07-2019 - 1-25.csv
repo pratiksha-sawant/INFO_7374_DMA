@@ -1,0 +1,26 @@
+﻿customer_id,first_name,last_name,email_id,gender,birthdate,street_address,zipcode,city,state,phone_number,active
+1,Artair,Alibone,aalibone0@twitpic.com,Male,5/29/2004,3 Algoma Drive,29905,Beaufort,South Carolina,398-674-8292,TRUE
+2,Hermina,Hargate,hhargate1@domainmarket.com,Female,1/4/1971,73 Erie Trail,71208,Monroe,Louisiana,598-737-7459,TRUE
+3,Valeda,Wise,vwise2@nature.com,Female,11/13/1983,791 Hoepker Terrace,76598,Gatesville,Texas,623-276-1104,FALSE
+4,Kristopher,Sea,ksea3@macromedia.com,Male,2/1/1952,275 Porter Parkway,95838,Sacramento,California,985-935-9702,TRUE
+5,Odella,Dady,odady4@purevolume.com,Female,9/6/1944,7 Ludington Park,46699,South Bend,Indiana,241-168-8259,TRUE
+6,Seth,Lethibridge,slethibridge5@narod.ru,Male,9/6/1991,0635 Straubel Circle,35220,Birmingham,Alabama,237-547-1013,TRUE
+7,Cam,Meace,cmeace6@fotki.com,Male,9/11/1967,70 Pennsylvania Junction,45505,Springfield,Ohio,123-110-9250,FALSE
+8,Sadye,Duffan,sduffan7@stanford.edu,Female,9/12/1944,3 Norway Maple Terrace,27717,Durham,North Carolina,614-619-2896,TRUE
+9,Ricki,Seton,rseton8@reverbnation.com,Male,3/30/2006,218 Southridge Crossing,40546,Lexington,Kentucky,227-100-2967,TRUE
+10,Reider,Inold,rinold9@techcrunch.com,Male,11/8/2009,32148 Melody Point,61825,Champaign,Illinois,818-167-3374,TRUE
+11,Drugi,Gallahar,dgallahara@prlog.org,Male,6/7/1953,683 Montana Court,44485,Warren,Ohio,335-702-9515,TRUE
+12,Doe,Tooke,dtookeb@t-online.de,Female,5/27/2000,44875 Mcguire Crossing,36628,Mobile,Alabama,143-531-4623,FALSE
+13,Marion,Izat,mizatc@mozilla.org,Male,8/10/2006,09808 Susan Crossing,19184,Philadelphia,Pennsylvania,306-378-4644,TRUE
+14,Ashla,McCloid,amccloidd@ox.ac.uk,Female,3/21/1996,15567 Jay Place,23454,Virginia Beach,Virginia,846-756-5396,TRUE
+15,Dniren,Franklen,dfranklene@nps.gov,Female,6/26/1958,6454 Amoth Alley,20205,Washington,District of Columbia,221-352-4993,TRUE
+16,Penn,Arrigucci,parriguccif@themeforest.net,Male,3/12/1988,91 Kropf Park,99507,Anchorage,Alaska,965-184-6491,TRUE
+17,Stephie,Stenners,sstennersg@rambler.ru,Female,1/15/2004,374 Lotheville Road,16107,New Castle,Pennsylvania,194-638-8390,FALSE
+18,Merilyn,Gowans,mgowansh@senate.gov,Female,1/30/2006,5 Badeau Avenue,55811,Duluth,Minnesota,232-739-6412,FALSE
+19,Otho,Kennelly,okennellyi@over-blog.com,Male,11/21/1963,17188 Heffernan Way,96845,Honolulu,Hawaii,593-792-6975,TRUE
+20,Guthrey,Connal,gconnalj@usgs.gov,Male,1/9/1952,9 Burrows Road,68134,Omaha,Nebraska,576-444-8440,TRUE
+21,Edy,Walshaw,ewalshawk@twitpic.com,Female,8/4/1979,1963 Bunker Hill Alley,38109,Memphis,Tennessee,897-101-5964,TRUE
+22,Vladamir,Klosges,vklosgesl@patch.com,Male,6/2/1962,46 Kingsford Street,92844,Garden Grove,California,802-596-7910,TRUE
+23,Rouvin,Leitch,rleitchm@over-blog.com,Male,3/15/1980,728 Thackeray Junction,39210,Jackson,Mississippi,689-608-1743,TRUE
+24,Emmett,Delos,edelosn@creativecommons.org,Male,12/17/1997,054 Heffernan Crossing,78744,Austin,Texas,533-355-4316,TRUE
+25,Mathilda,Benois,mbenoiso@reverbnation.com,Female,10/24/1977,57 Crownhardt Pass,33436,Boynton Beach,Florida,876-406-5867,TRUE
