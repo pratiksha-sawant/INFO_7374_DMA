@@ -13,7 +13,5 @@ We are analysing the comcast data to recreate some plans and prmotion benefits f
 ### Part 2 :-
 For part 2 we got the Dataset from other team from via GCP bigquery and analyze there data according to use cases and genrated the dashboards for there data.
 
-We have documented our entire POC on CLAAT document given below:
-
 ### Report:
 https://codelabs-preview.appspot.com/?file_id=1y5rbrlF3YWC2swOTgQF3jU_MBNWOCRthkmQNaCXYEzQ#2
