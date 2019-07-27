@@ -35,10 +35,10 @@ https://codelabs-preview.appspot.com/?file_id=1X7eEYQ8iEXc9BLwF0sVZX9aAeUmRZe37h
 
 
 ### Growth Rate:
-Created a dashboard for analyzing the growth rate
+Dashboard for analyzing the growth rate
 
 ### Choosing KPIs:
-Created a dashboard for analyzing KPIs
+Dashboard for analyzing KPIs
 
 •	Customer acquisition cost
 
