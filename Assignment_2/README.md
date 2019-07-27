@@ -1,16 +1,16 @@
 # Assignment 2
 *****************************************
 ## Part 1:
-Proof of Concept
+### Proof of Concept 
+Plan to implement the architecture
 
-Report on below blogs
+### Report on below blogs
 
 •	Customer Personas: https://outlier.ai/data-driven-daily/customer-personas/
 
 •	Growth Rate: https://outlier.ai/data-driven-daily/growth-rates-predicting-growth/
 
 •	Choosing KPIs: https://outlier.ai/data-driven-daily/choosing-kpis/
-
 
 ## Part 2:
 
@@ -36,8 +36,11 @@ Classified some new customers into different personas using supervised machine l
 
 Installation:
  • pip install pandas
+ 
  • pip install numpy
+ 
  • pip install matplotlib
+ 
  • pip install sklearn
 
 ### Growth Rate:
