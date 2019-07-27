@@ -19,35 +19,20 @@ Plan to implement the architecture
 https://codelabs-preview.appspot.com/?file_id=1X7eEYQ8iEXc9BLwF0sVZX9aAeUmRZe37h7bF6uA2lTA#0
 
 ### Customer Personas:
-Implemented unsupervised machine learning model (Kmeans Clustering) to create customer 8 personas as listed below
+•	Implemented unsupervised machine learning model (K-means Clustering) to create customer 8 personas as listed below
 
-•	Andrew
+•	Classified some new customers into different personas using supervised machine learning model (Naive Bayes) 
 
-•	David
+•	Installation:
 
-•	Erica
+  o	pip install pandas
 
-•	Gina
+  o	pip install numpy
 
-•	Jason
+  o	pip install matplotlib
 
-•	Jessica
+  o	pip install sklearn
 
-•	Matt
-
-•	Tiffany
-
-Classified some new customers into different personas using supervised machine learning model (Naive Bayes) 
-
-Installation:
-
- • pip install pandas
- 
- • pip install numpy
- 
- • pip install matplotlib
- 
- • pip install sklearn
 
 ### Growth Rate:
 Created a dashboard for analyzing the growth rate
