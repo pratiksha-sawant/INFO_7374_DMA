@@ -20,6 +20,7 @@ https://codelabs-preview.appspot.com/?file_id=1X7eEYQ8iEXc9BLwF0sVZX9aAeUmRZe37h
 
 ### Customer Personas:
 Implemented unsupervised machine learning model (Kmeans Clustering) to create customer personas as listed below
+
 •	Andrew
 
 •	David
@@ -35,6 +36,7 @@ Implemented unsupervised machine learning model (Kmeans Clustering) to create cu
 •	Matt
 
 •	Tiffany
+
 
 Classified some new customers into different personas using supervised machine learning model (Naive Bayes) 
 
