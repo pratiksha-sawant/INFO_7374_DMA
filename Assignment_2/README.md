@@ -37,10 +37,10 @@ Implemented unsupervised machine learning model (Kmeans Clustering) to create cu
 
 •	Tiffany
 
-
 Classified some new customers into different personas using supervised machine learning model (Naive Bayes) 
 
 Installation:
+
  • pip install pandas
  
  • pip install numpy
