@@ -1,0 +1,1001 @@
+id,first_name,last_name,gender,birthdate,zipcode,city,state,active,region,connection_type,average_call_length,age
+10001,Gayle,Spinelli,Male,2/10/1984,98175,Seattle,Washington,FALSE,PacificCoastal,new,48.35,35
+10002,Annis,Hedon,Female,5/29/1961,46226,Indianapolis,Indiana,TRUE,Midwest,new,12.86,58
+10003,Em,Seagrove,Female,6/30/1973,98158,Seattle,Washington,TRUE,PacificCoastal,new,51.48,46
+10004,Imogene,Portman,Female,1/12/1955,77288,Houston,Texas,FALSE,Southwest,new,20.21,64
+10005,Dallon,Devote,Male,9/4/1971,78783,Austin,Texas,TRUE,Southwest,new,17.23,47
+10006,Cleveland,Groveham,Male,2/19/1972,80209,Denver,Colorado,FALSE,RockyMountain,ported,22.28,47
+10007,Giselbert,Perroni,Male,9/25/2005,76096,Arlington,Texas,FALSE,Southwest,new,49.07,13
+10008,Keslie,Denerley,Female,10/17/2002,20041,Washington,District of Columbia,TRUE,Southern,new,14.61,16
+10009,Arnuad,Biddy,Male,7/20/1958,19120,Philadelphia,Pennsylvania,TRUE,Mid-atlantic,ported,22.11,61
+10010,Forbes,Kilfether,Male,12/8/2006,8695,Trenton,New Jersey,TRUE,Mid-atlantic,ported,25.43,12
+10011,Agnesse,McPhater,Female,2/9/1995,60567,Naperville,Illinois,TRUE,Midwest,new,35.39,24
+10012,Chrissy,Yukhnin,Male,10/17/1968,83732,Boise,Idaho,TRUE,RockyMountain,new,27.94,50
+10013,Babita,Pashe,Female,6/13/1981,46634,South Bend,Indiana,TRUE,Midwest,new,48.22,38
+10014,Darla,Tippetts,Female,5/17/1957,27110,Winston Salem,North Carolina,TRUE,Southern,new,58.35,62
+10015,Menard,Santostefano.,Male,11/25/1982,55166,Saint Paul,Minnesota,TRUE,Midwest,new,14.42,36
+10016,Ethelyn,Dungate,Female,7/22/1995,56372,Saint Cloud,Minnesota,FALSE,Midwest,new,30.74,24
+10017,Isacco,Aleksidze,Male,7/19/1979,62756,Springfield,Illinois,TRUE,Midwest,ported,52.47,40
+10018,Alane,Common,Female,10/19/1983,46896,Fort Wayne,Indiana,TRUE,Midwest,new,12.14,35
+10019,Hal,Coward,Male,12/4/2000,29305,Spartanburg,South Carolina,FALSE,Southern,ported,33.27,18
+10020,Regine,Llewellyn,Female,3/10/1955,90610,Whittier,California,TRUE,PacificCoastal,ported,51.62,64
+10021,Drucie,Yeiles,Female,3/18/1970,10280,New York City,New York,TRUE,Mid-atlantic,new,43.49,49
+10022,Opaline,Ride,Female,3/19/1957,38150,Memphis,Tennessee,FALSE,Southern,ported,30.15,62
+10023,Gilli,Ginley,Female,12/17/1991,83405,Idaho Falls,Idaho,TRUE,RockyMountain,ported,41.7,27
+10024,Staford,Rounding,Male,1/6/1954,23277,Richmond,Virginia,FALSE,Southern,new,22.45,65
+10025,Bary,Lydiatt,Male,5/6/1962,75379,Dallas,Texas,FALSE,Southwest,new,54.48,57
+10026,Ranee,Pumphreys,Female,5/27/1962,19196,Philadelphia,Pennsylvania,TRUE,Mid-atlantic,ported,22.74,57
+10027,Willabella,Tomasz,Female,6/8/1988,7112,Newark,New Jersey,TRUE,Mid-atlantic,new,23.68,31
+10028,Luisa,Derges,Female,6/29/1992,89595,Reno,Nevada,TRUE,RockyMountain,new,26.88,27
+10029,Teodorico,Andryszczak,Male,3/16/1986,50393,Des Moines,Iowa,TRUE,Midwest,new,54.69,33
+10030,Anjela,Reese,Female,7/11/1982,78260,San Antonio,Texas,TRUE,Southwest,new,29.36,37
+10031,Kirsten,Swadlin,Female,6/1/1976,34615,Clearwater,Florida,FALSE,Southern,new,17.67,43
+10032,Letti,Calyton,Female,10/2/1989,14639,Rochester,New York,FALSE,Mid-atlantic,new,32.84,29
+10033,Collete,Baysting,Female,2/8/1977,11436,Jamaica,New York,TRUE,Mid-atlantic,ported,47.38,42
+10034,Christina,Awton,Female,12/6/1999,46278,Indianapolis,Indiana,TRUE,Midwest,ported,59.14,19
+10035,Costa,Ringsell,Male,1/19/2002,2119,Boston,Massachusetts,FALSE,New-England,new,26.24,17
+10036,Quinn,Vasentsov,Female,5/30/1973,98907,Yakima,Washington,FALSE,PacificCoastal,new,58.81,46
+10037,Gerianna,Filippazzo,Female,1/24/1999,87190,Albuquerque,New Mexico,FALSE,Southwest,ported,34.11,20
+10038,Tilly,Vischi,Female,11/17/1997,2472,Watertown,Massachusetts,TRUE,New-England,new,9.72,21
+10039,Ulrica,Onians,Female,2/23/1997,31190,Atlanta,Georgia,TRUE,Southern,new,55.67,22
+10040,Erda,Fauguel,Female,11/1/1968,53205,Milwaukee,Wisconsin,FALSE,Midwest,new,12.47,50
+10041,Noelani,Semper,Female,3/25/1998,33742,Saint Petersburg,Florida,FALSE,Southern,ported,41.72,21
+10042,Brendis,Bland,Male,12/10/1957,32225,Jacksonville,Florida,TRUE,Southern,new,9.44,61
+10043,Channa,Oda,Female,1/31/1961,70836,Baton Rouge,Louisiana,FALSE,Southern,ported,40.02,58
+10044,Duffy,Lockhart,Male,10/16/1963,22301,Alexandria,Virginia,FALSE,Southern,new,34.68,55
+10045,Jillana,Aloshikin,Female,8/14/1980,93034,Oxnard,California,TRUE,PacificCoastal,ported,55.09,38
+10046,Twyla,Widmoor,Female,2/18/2001,55115,Saint Paul,Minnesota,FALSE,Midwest,new,53.68,18
+10047,Sampson,Kneath,Male,6/12/1988,66606,Topeka,Kansas,TRUE,Midwest,ported,52.38,31
+10048,Phillie,Aylward,Female,5/2/1981,25711,Huntington,West Virginia,FALSE,Southern,new,54.93,38
+10049,Ravi,Noell,Male,9/27/1991,92878,Corona,California,FALSE,PacificCoastal,new,47.85,27
+10050,Tim,Benesevich,Male,10/31/1979,90605,Whittier,California,FALSE,PacificCoastal,ported,21.02,39
+10051,Annaliese,Iacomi,Female,11/18/1992,19495,Valley Forge,Pennsylvania,TRUE,Mid-atlantic,new,19.07,26
+10052,Jaquenetta,Upstone,Female,4/12/1972,30905,Augusta,Georgia,TRUE,Southern,ported,27.62,47
+10053,Guglielmo,Masseo,Male,6/25/2005,92153,San Diego,California,TRUE,PacificCoastal,ported,54.24,14
+10054,Sadye,Inkster,Female,1/23/1991,39236,Jackson,Mississippi,FALSE,Southern,ported,21,28
+10055,Inez,Yurocjkin,Female,4/21/1970,95054,Santa Clara,California,TRUE,PacificCoastal,ported,47.02,49
+10056,Bartolemo,Huggen,Male,9/12/1972,75049,Garland,Texas,TRUE,Southwest,new,28.58,46
+10057,Valli,Pearcy,Female,9/2/1985,55551,Young America,Minnesota,FALSE,Midwest,ported,29.57,33
+10058,Matthew,Kingaby,Male,5/4/1977,92105,San Diego,California,TRUE,PacificCoastal,new,28.8,42
+10059,Quintana,Glader,Female,3/29/1974,48295,Detroit,Michigan,FALSE,Midwest,ported,5.71,45
+10060,Melva,Neary,Female,5/21/1986,20540,Washington,District of Columbia,TRUE,Southern,ported,33.96,33
+10061,Tymothy,Knolles-Green,Male,7/18/1971,10110,New York City,New York,FALSE,Mid-atlantic,ported,9.34,48
+10062,Celia,Cotman,Female,6/24/1976,36177,Montgomery,Alabama,FALSE,Southern,new,8.91,43
+10063,Lindsey,Meharg,Male,8/9/1955,77075,Houston,Texas,TRUE,Southwest,ported,56,64
+10064,Yves,Presslie,Male,10/11/1994,59105,Billings,Montana,FALSE,RockyMountain,ported,30.97,24
+10065,Kenn,Yurchishin,Male,5/19/1966,25705,Huntington,West Virginia,TRUE,Southern,new,24.19,53
+10066,Christiana,MacLeese,Female,12/19/1973,95123,San Jose,California,TRUE,PacificCoastal,new,31.07,45
+10067,Darrell,Toland,Male,1/3/1985,46699,South Bend,Indiana,TRUE,Midwest,ported,6.34,34
+10068,Orion,Jikylls,Male,4/1/2005,12255,Albany,New York,TRUE,Mid-atlantic,ported,40.52,14
+10069,Otto,Osorio,Male,9/20/1965,2216,Boston,Massachusetts,TRUE,New-England,new,30.28,53
+10070,Junia,Jeffels,Female,10/24/1987,31196,Atlanta,Georgia,TRUE,Southern,ported,22.36,31
+10071,Rutledge,Gotmann,Male,10/16/1962,85215,Mesa,Arizona,TRUE,Southwest,new,48.42,56
+10072,Nisse,Pyper,Female,10/26/1968,11499,Jamaica,New York,TRUE,Mid-atlantic,ported,2.35,50
+10073,Una,Burridge,Female,2/7/1954,79911,El Paso,Texas,TRUE,Southwest,new,8.79,65
+10074,Donnie,Fursey,Male,7/11/1964,10029,New York City,New York,TRUE,Mid-atlantic,new,3.55,55
+10075,Patty,Boyall,Male,8/13/1955,33069,Pompano Beach,Florida,TRUE,Southern,new,9.3,63
+10076,Penelope,Knightly,Female,3/9/1988,79410,Lubbock,Texas,FALSE,Southwest,ported,29.07,31
+10077,Brendis,Madgewick,Male,11/29/1993,43210,Columbus,Ohio,FALSE,Midwest,ported,44.27,25
+10078,Olimpia,McCarl,Female,7/29/1965,30328,Atlanta,Georgia,FALSE,Southern,ported,39.6,54
+10079,Rob,Woodhams,Male,9/7/1997,78789,Austin,Texas,TRUE,Southwest,ported,55.03,21
+10080,Gaylord,Nolton,Male,3/15/1977,38197,Memphis,Tennessee,FALSE,Southern,ported,37.67,42
+10081,Uriah,Atheis,Male,4/18/2003,33694,Tampa,Florida,TRUE,Southern,new,31.89,16
+10082,Averyl,Stollhofer,Female,11/28/1959,17126,Harrisburg,Pennsylvania,TRUE,Mid-atlantic,new,29.47,59
+10083,Ethelind,Scroggs,Female,10/5/1995,46805,Fort Wayne,Indiana,FALSE,Midwest,ported,35.62,23
+10084,Silvester,Mitcheson,Male,12/19/1969,80945,Colorado Springs,Colorado,TRUE,RockyMountain,ported,5.98,49
+10085,Waylen,Andras,Male,6/11/1963,44511,Youngstown,Ohio,TRUE,Midwest,new,34,56
+10086,Lenore,Staton,Female,9/12/1988,34981,Fort Pierce,Florida,TRUE,Southern,ported,35.69,30
+10087,Ermanno,Dot,Male,12/8/1974,19605,Reading,Pennsylvania,FALSE,Mid-atlantic,new,13.15,44
+10088,Sher,Newns,Female,9/18/1963,77346,Humble,Texas,FALSE,Southwest,ported,50.88,55
+10089,Marlin,Code,Male,11/26/2003,98498,Lakewood,Washington,FALSE,PacificCoastal,new,38.4,15
+10090,Alberto,Pirdue,Male,9/18/1954,31998,Columbus,Georgia,TRUE,Southern,new,49.52,64
+10091,Dorolice,Slogrove,Female,6/7/1972,31136,Atlanta,Georgia,TRUE,Southern,ported,22.24,47
+10092,Teresa,Keysel,Female,5/18/1977,64082,Lees Summit,Missouri,FALSE,Midwest,ported,25.6,42
+10093,Frederik,Gisburn,Male,4/23/1955,20580,Washington,District of Columbia,TRUE,Southern,new,32.52,64
+10094,Agathe,Houselee,Female,8/13/1966,80243,Denver,Colorado,TRUE,RockyMountain,ported,19.16,52
+10095,Benjamin,Brahan,Male,12/25/1954,75049,Garland,Texas,TRUE,Southwest,ported,20.13,64
+10096,Constancia,Camerello,Female,6/11/1972,94169,San Francisco,California,FALSE,PacificCoastal,ported,47.86,47
+10097,Ollie,Humberston,Male,11/25/1995,90410,Santa Monica,California,TRUE,PacificCoastal,new,4.33,23
+10098,Corilla,Garahan,Female,4/18/1977,64187,Kansas City,Missouri,TRUE,Midwest,new,44.79,42
+10099,Sophi,Hoodspeth,Female,8/17/1959,94280,Sacramento,California,FALSE,PacificCoastal,ported,12.51,59
+10100,Inness,Gehrtz,Male,6/24/1977,65218,Columbia,Missouri,TRUE,Midwest,ported,57.78,42
+10101,Wake,Loveguard,Male,8/14/1979,16107,New Castle,Pennsylvania,FALSE,Mid-atlantic,ported,26.4,39
+10102,Yorgo,Chillistone,Male,3/14/1998,98158,Seattle,Washington,TRUE,PacificCoastal,ported,7.4,21
+10103,Libby,Shergill,Female,5/15/1985,10120,New York City,New York,TRUE,Mid-atlantic,new,46.67,34
+10104,Burt,Ziehm,Male,2/6/1966,78405,Corpus Christi,Texas,TRUE,Southwest,ported,11.98,53
+10105,Marika,Janicki,Female,12/27/1993,92170,San Diego,California,FALSE,PacificCoastal,new,16.36,25
+10106,Sherline,McHardy,Female,7/20/1997,18706,Wilkes Barre,Pennsylvania,FALSE,Mid-atlantic,ported,36.16,22
+10107,Rhodie,Starford,Female,10/13/1988,29805,Aiken,South Carolina,FALSE,Southern,ported,14.5,30
+10108,Norry,Raff,Male,9/19/1996,40293,Louisville,Kentucky,TRUE,Southern,new,1.61,22
+10109,Milty,Stockney,Male,5/12/2000,50320,Des Moines,Iowa,TRUE,Midwest,new,33.19,19
+10110,Oliy,Scone,Female,2/12/1992,21265,Baltimore,Maryland,TRUE,Southern,ported,16.57,27
+10111,Ardyce,Rodolico,Female,10/29/1964,45020,Hamilton,Ohio,TRUE,Midwest,ported,59.37,54
+10112,Andris,Delf,Male,10/9/1978,55407,Minneapolis,Minnesota,TRUE,Midwest,new,10.24,40
+10113,Evonne,Lamar,Female,3/28/2003,45999,Cincinnati,Ohio,TRUE,Midwest,new,20.05,16
+10114,Sheela,Showt,Female,10/8/1956,14652,Rochester,New York,TRUE,Mid-atlantic,new,53.37,62
+10115,Nils,Piche,Male,3/24/1984,43610,Toledo,Ohio,TRUE,Midwest,new,43.55,35
+10116,Peggi,Spellsworth,Female,6/16/1980,92165,San Diego,California,FALSE,PacificCoastal,new,58.82,39
+10117,Neils,Linklater,Male,12/17/1990,32511,Pensacola,Florida,TRUE,Southern,ported,51.91,28
+10118,Letisha,Fronczak,Female,1/9/1998,27404,Greensboro,North Carolina,FALSE,Southern,ported,15.08,21
+10119,Bud,MacWilliam,Male,8/10/1978,76210,Denton,Texas,TRUE,Southwest,new,20.11,40
+10120,Heath,Garrat,Male,8/4/2001,53234,Milwaukee,Wisconsin,TRUE,Midwest,ported,5.93,17
+10121,Roderich,McLleese,Male,7/4/1987,98148,Seattle,Washington,TRUE,PacificCoastal,new,59.06,32
+10122,Portie,Zanutti,Male,9/12/2006,6721,Waterbury,Connecticut,TRUE,New-England,new,35.51,12
+10123,Heidi,Andrew,Female,1/17/1962,43615,Toledo,Ohio,TRUE,Midwest,ported,4.63,57
+10124,Jecho,Duffie,Male,7/18/1976,96835,Wilkes Barre,Pennsylvania,TRUE,Mid-atlantic,ported,59.18,43
+10125,Nola,Jacquemot,Female,2/18/1956,25711,Huntington,West Virginia,TRUE,Southern,new,19.62,63
+10126,Amata,Kwietak,Female,12/16/2005,28289,Charlotte,North Carolina,FALSE,Southern,ported,44.5,13
+10127,Clarita,Oxer,Female,3/26/2005,75062,Irving,Texas,TRUE,Southwest,new,49.07,14
+10128,Sherman,Mooreed,Male,12/8/1983,23605,Newport News,Virginia,TRUE,Southern,new,36.67,35
+10129,Kliment,Goodlett,Male,8/22/1993,11225,Brooklyn,New York,TRUE,Mid-atlantic,ported,26.64,25
+10130,Errol,Antonat,Male,12/7/1974,84152,Salt Lake City,Utah,TRUE,RockyMountain,new,41.77,44
+10131,Tommie,Derisly,Male,8/15/1976,70142,New Orleans,Louisiana,TRUE,Southern,new,22.33,42
+10132,Dorie,Largan,Female,11/30/1954,31217,Macon,Georgia,TRUE,Southern,ported,39.9,64
+10133,Delly,Kirkbright,Female,8/29/1993,73190,Oklahoma City,Oklahoma,FALSE,Southwest,ported,9.39,25
+10134,Artur,Routham,Male,8/17/1984,1813,Woburn,Massachusetts,TRUE,New-England,ported,41.26,34
+10135,Gabbie,Huddle,Female,5/8/1988,84120,Salt Lake City,Utah,FALSE,RockyMountain,ported,16.59,31
+10136,Ivory,Takis,Female,2/13/1991,27264,High Point,North Carolina,TRUE,Southern,ported,9.34,28
+10137,Nickolaus,Tunniclisse,Male,9/18/2000,88525,El Paso,Texas,TRUE,Southwest,new,24.02,18
+10138,Winona,Beaman,Female,2/5/1968,46699,South Bend,Indiana,TRUE,Midwest,ported,57.43,51
+10139,Weylin,MacAne,Male,5/16/1974,18505,Scranton,Pennsylvania,FALSE,Mid-atlantic,ported,35.84,45
+10140,Lombard,Fines,Male,8/11/1996,14639,Rochester,New York,TRUE,Mid-atlantic,new,33.74,22
+10141,Patrick,Waszczykowski,Male,11/30/1971,35254,Birmingham,Alabama,TRUE,Southern,ported,59.39,47
+10142,Mordecai,Flag,Male,6/14/2005,80945,Colorado Springs,Colorado,TRUE,RockyMountain,ported,3.76,14
+10143,Melloney,Wardingly,Female,3/16/1956,32891,Orlando,Florida,TRUE,Southern,ported,22.02,63
+10144,Chevalier,Dorr,Male,1/26/1997,92105,San Diego,California,FALSE,PacificCoastal,ported,1.98,22
+10145,Indira,Andriessen,Female,5/4/1991,92822,Brea,California,TRUE,PacificCoastal,ported,9.43,28
+10146,Velvet,Shankland,Female,10/4/1973,66276,Shawnee Mission,Kansas,FALSE,Midwest,ported,8.67,45
+10147,Alexia,Soans,Female,10/11/1995,48275,Detroit,Michigan,TRUE,Midwest,new,50.05,23
+10148,Nonnah,Dinan,Female,12/31/1961,76198,Fort Worth,Texas,TRUE,Southwest,new,49.69,57
+10149,Gawen,Sanbrook,Male,7/31/1999,33111,Miami,Florida,TRUE,Southern,new,18.44,20
+10150,Welch,Schrieves,Male,4/30/1989,78715,Austin,Texas,TRUE,Southwest,new,53.4,30
+10151,Jerrylee,Nugent,Female,3/23/1966,36109,Montgomery,Alabama,FALSE,Southern,new,12.07,53
+10152,Chicky,Glentz,Female,7/23/1964,98498,Lakewood,Washington,FALSE,PacificCoastal,ported,15.74,55
+10153,Devondra,Drance,Female,2/1/1993,7505,Paterson,New Jersey,FALSE,Mid-atlantic,ported,33.68,26
+10154,Mada,Brum,Female,6/14/1976,78769,Austin,Texas,TRUE,Southwest,ported,26.35,43
+10155,Alair,Leele,Male,2/26/1997,94159,San Francisco,California,TRUE,PacificCoastal,new,13.58,22
+10156,Fonsie,Rubens,Male,7/15/1954,37939,Knoxville,Tennessee,TRUE,Southern,ported,32.05,65
+10157,Sosanna,Le Prevost,Female,9/12/1976,70033,Metairie,Louisiana,TRUE,Southern,ported,3.43,42
+10158,Marje,Passo,Female,9/18/1959,48258,Detroit,Michigan,FALSE,Midwest,ported,58.28,59
+10159,Cassaundra,Verrell,Female,7/9/1976,85005,Phoenix,Arizona,TRUE,Southwest,new,15.3,43
+10160,Dorothee,Shermore,Female,11/10/2005,77505,Pasadena,Texas,FALSE,Southwest,ported,1.73,13
+10161,Douglas,Taberer,Male,2/22/1961,48242,Detroit,Michigan,TRUE,Midwest,ported,56.86,58
+10162,Emelyne,Dewhurst,Female,7/3/1974,2109,Boston,Massachusetts,TRUE,New-England,new,48.04,45
+10163,Myrtia,Berlin,Female,3/5/1955,98405,Tacoma,Washington,TRUE,PacificCoastal,new,59.26,64
+10164,Roshelle,Docker,Female,4/9/2006,33884,Winter Haven,Florida,FALSE,Southern,ported,8.47,13
+10165,Addison,Playden,Male,2/4/1957,96805,Philadelphia,Pennsylvania,TRUE,Mid-atlantic,ported,7.88,62
+10166,Vita,Zoellner,Female,3/27/1991,29805,Aiken,South Carolina,TRUE,Southern,ported,17.96,28
+10167,Merle,Tolotti,Male,5/10/1995,68134,Omaha,Nebraska,FALSE,Midwest,new,23.59,24
+10168,Errol,Curnow,Male,11/14/1955,90081,Los Angeles,California,TRUE,PacificCoastal,ported,24.32,63
+10169,Langsdon,Gilphillan,Male,2/13/1962,66667,Topeka,Kansas,FALSE,Midwest,ported,9.62,57
+10170,Eberto,Bierling,Male,5/8/1972,53234,Milwaukee,Wisconsin,TRUE,Midwest,new,53.06,47
+10171,Debee,Woodgate,Female,7/5/2004,73071,Norman,Oklahoma,TRUE,Southwest,new,56.72,15
+10172,Sergeant,Bavester,Male,6/20/2001,77045,Houston,Texas,TRUE,Southwest,ported,11.35,18
+10173,Valentino,Orcott,Male,3/23/1973,77201,Houston,Texas,FALSE,Southwest,ported,54.12,46
+10174,Dean,Ginnaly,Male,10/31/1995,13205,Syracuse,New York,TRUE,Mid-atlantic,ported,26.52,23
+10175,Eddie,Savell,Male,1/6/1977,34643,Largo,Florida,TRUE,Southern,ported,44.74,42
+10176,Gracie,Goozee,Female,1/10/2004,54313,Green Bay,Wisconsin,TRUE,Midwest,ported,39.92,15
+10177,Sebastiano,Lavallin,Male,12/26/1999,77288,Houston,Texas,FALSE,Southwest,ported,56.91,19
+10178,Yasmeen,McAllan,Female,8/12/2000,44511,Youngstown,Ohio,TRUE,Midwest,ported,41.46,18
+10179,Tarra,Vittle,Female,4/9/1999,20238,Washington,District of Columbia,TRUE,Southern,new,49.5,20
+10180,Evan,Tesseyman,Male,5/1/1991,10110,New York City,New York,TRUE,Mid-atlantic,new,24.92,28
+10181,Hilary,Bligh,Female,3/11/2002,73124,Oklahoma City,Oklahoma,TRUE,Southwest,ported,18.51,17
+10182,Howard,Langcastle,Male,3/8/1991,18505,Scranton,Pennsylvania,TRUE,Mid-atlantic,new,31.43,28
+10183,Rochella,Castagne,Female,8/18/1964,64136,Kansas City,Missouri,TRUE,Midwest,new,33.86,54
+10184,Reider,Bratten,Male,3/5/1999,33345,Fort Lauderdale,Florida,FALSE,Southern,ported,55.54,20
+10185,Loise,Dunlea,Female,11/3/1967,11024,Great Neck,New York,FALSE,Mid-atlantic,ported,12.06,51
+10186,Merci,Tart,Female,2/14/1995,32255,Jacksonville,Florida,TRUE,Southern,ported,29.17,24
+10187,Jonis,Fellows,Female,5/23/1995,88558,El Paso,Texas,FALSE,Southwest,ported,53.44,24
+10188,Seward,Norewood,Male,5/9/1964,94522,Concord,California,FALSE,PacificCoastal,ported,18.55,55
+10189,Perle,Trotter,Female,9/14/1971,68179,Omaha,Nebraska,TRUE,Midwest,new,59.69,47
+10190,Kristofor,Yukhnev,Male,10/21/1979,62525,Decatur,Illinois,TRUE,Midwest,ported,47.62,39
+10191,Ilaire,Buckell,Male,2/12/1960,18105,Allentown,Pennsylvania,FALSE,Mid-atlantic,new,27.63,59
+10192,Ricki,Goodall,Female,4/24/1979,96845,Pittsburgh,Pennsylvania,FALSE,Mid-atlantic,new,50.77,40
+10193,Flss,Rabat,Female,3/4/1954,63158,Saint Louis,Missouri,TRUE,Midwest,new,41.56,65
+10194,Ansley,Wilkins,Female,7/27/1998,66629,Topeka,Kansas,TRUE,Midwest,new,28.53,21
+10195,Juanita,Winslet,Female,10/23/1964,84140,Salt Lake City,Utah,FALSE,RockyMountain,new,39.16,54
+10196,Aggie,Normanell,Female,2/7/2002,53285,Milwaukee,Wisconsin,TRUE,Midwest,ported,24.31,17
+10197,Abigail,Trever,Female,8/26/1990,77206,Houston,Texas,TRUE,Southwest,new,20.7,28
+10198,Bonnie,Ghilardi,Female,3/31/1963,97286,Portland,Oregon,TRUE,PacificCoastal,new,22.98,56
+10199,Eva,Streak,Female,5/29/1964,6510,New Haven,Connecticut,TRUE,New-England,new,14.09,55
+10200,Darwin,Litster,Male,8/8/1987,7505,Paterson,New Jersey,FALSE,Mid-atlantic,new,26.34,31
+10201,Jaquenetta,Dingley,Female,9/2/1963,80044,Aurora,Colorado,TRUE,RockyMountain,ported,14.66,55
+10202,Herve,Seaborne,Male,4/17/1980,24503,Lynchburg,Virginia,TRUE,Southern,new,21.99,39
+10203,Victor,Hardacre,Male,7/15/1986,5609,Montpelier,Vermont,FALSE,New-England,ported,22.31,33
+10204,Leah,Vaisey,Female,8/17/1996,6145,Hartford,Connecticut,TRUE,New-England,ported,51.52,22
+10205,Hinda,Gresser,Female,11/6/1968,20436,Washington,District of Columbia,TRUE,Southern,new,28.03,50
+10206,Byran,Ewestace,Male,11/1/2001,92717,Irvine,California,TRUE,PacificCoastal,new,59.94,17
+10207,Amandy,Wretham,Female,11/16/1977,52809,Davenport,Iowa,TRUE,Midwest,ported,57.24,41
+10208,Twyla,Larvin,Female,5/2/1962,47805,Terre Haute,Indiana,FALSE,Midwest,new,39.73,57
+10209,Juliette,Angood,Female,12/22/1997,2119,Boston,Massachusetts,TRUE,New-England,new,16.54,21
+10210,Charlena,Fickling,Female,10/9/1972,46862,Fort Wayne,Indiana,TRUE,Midwest,ported,59.18,46
+10211,Burk,Extill,Male,5/12/1999,22234,Arlington,Virginia,FALSE,Southern,ported,54.92,20
+10212,Roseanne,Sarch,Female,6/22/2003,70820,Baton Rouge,Louisiana,TRUE,Southern,ported,7.08,16
+10213,Abba,Grayley,Male,8/10/1995,64054,Independence,Missouri,TRUE,Midwest,ported,7.38,23
+10214,Brandais,Moy,Female,6/10/2005,94627,Oakland,California,TRUE,PacificCoastal,ported,40.46,14
+10215,Boot,Tellesson,Male,10/3/1971,47712,Evansville,Indiana,TRUE,Midwest,ported,11.81,47
+10216,Natala,Harradence,Female,7/24/1995,19714,Newark,Delaware,FALSE,Southern,new,43.37,24
+10217,Ruttger,Neno,Male,3/8/1986,96810,Erie,Pennsylvania,TRUE,Mid-atlantic,ported,57.85,33
+10218,Brockie,Chataignier,Male,4/24/1984,32813,Orlando,Florida,TRUE,Southern,ported,13.63,35
+10219,Bernardo,Tottle,Male,8/19/1998,72916,Fort Smith,Arkansas,TRUE,Southern,ported,17.17,20
+10220,Fielding,Caban,Male,4/15/2005,45228,Cincinnati,Ohio,TRUE,Midwest,new,17.93,14
+10221,Gabbi,Leijs,Female,9/14/1977,49018,Battle Creek,Michigan,FALSE,Midwest,new,39.09,41
+10222,Ebony,Saltmarsh,Female,2/3/1973,76129,Fort Worth,Texas,FALSE,Southwest,new,16.67,46
+10223,Doralin,Grolle,Female,2/17/1997,85072,Phoenix,Arizona,TRUE,Southwest,new,17.77,22
+10224,Mair,Korba,Female,5/1/1956,33320,Fort Lauderdale,Florida,TRUE,Southern,ported,22.92,63
+10225,Averyl,Sisneros,Female,6/22/1985,30245,Lawrenceville,Georgia,TRUE,Southern,new,51.5,34
+10226,Cori,Reeks,Male,11/7/1963,7505,Paterson,New Jersey,TRUE,Mid-atlantic,ported,34.42,55
+10227,Rebe,Slixby,Female,10/28/1964,31416,Savannah,Georgia,TRUE,Southern,new,8.11,54
+10228,Xerxes,Canadas,Male,6/2/1961,73190,Oklahoma City,Oklahoma,TRUE,Southwest,new,2.74,58
+10229,Paton,Perello,Male,6/28/1984,20425,Washington,District of Columbia,FALSE,Southern,new,59.79,35
+10230,Maybelle,Gaunter,Female,3/29/1982,47725,Evansville,Indiana,FALSE,Midwest,new,8.37,37
+10231,Von,Enrique,Male,11/27/1980,90847,Long Beach,California,TRUE,PacificCoastal,ported,42.44,38
+10232,Lay,Riddich,Male,12/18/1964,76162,Fort Worth,Texas,TRUE,Southwest,ported,14.56,54
+10233,Marcelle,Rosa,Female,10/25/1986,33686,Tampa,Florida,TRUE,Southern,new,12.37,32
+10234,Lanie,Spottiswood,Female,11/20/1971,43268,Columbus,Ohio,FALSE,Midwest,ported,42.89,47
+10235,Damian,ffrench Beytagh,Male,2/16/2002,66105,Kansas City,Kansas,TRUE,Midwest,new,40.94,17
+10236,Andie,Leworthy,Male,11/20/1985,23520,Norfolk,Virginia,FALSE,Southern,new,54.92,33
+10237,Keslie,Ventum,Female,5/10/2002,71307,Alexandria,Louisiana,TRUE,Southern,new,20.43,17
+10238,Lina,Tomkiss,Female,8/18/1970,44505,Youngstown,Ohio,TRUE,Midwest,new,29.66,48
+10239,Erhard,Duplock,Male,12/8/1976,29208,Columbia,South Carolina,TRUE,Southern,ported,43.06,42
+10240,Lula,Liversedge,Female,10/12/1955,35810,Huntsville,Alabama,TRUE,Southern,ported,29.69,63
+10241,Almeta,Butlin,Female,8/18/1979,49560,Grand Rapids,Michigan,TRUE,Midwest,new,54.56,39
+10242,Christy,Klimkovich,Male,2/28/1954,20397,Washington,District of Columbia,TRUE,Southern,new,55.75,65
+10243,Monica,Etty,Female,10/20/1998,10633,White Plains,New York,FALSE,Mid-atlantic,new,10.96,20
+10244,Titos,Flewett,Male,9/14/1994,85099,Phoenix,Arizona,FALSE,Southwest,new,29.94,24
+10245,Stacy,Linnett,Male,2/22/1975,68583,Lincoln,Nebraska,FALSE,Midwest,ported,42.62,44
+10246,Cayla,Conochie,Female,5/24/1970,40586,Lexington,Kentucky,FALSE,Southern,ported,40.37,49
+10247,Karon,Lowcock,Female,2/11/1970,62205,East Saint Louis,Illinois,TRUE,Midwest,new,24.27,49
+10248,Monah,Gleeton,Female,4/20/1967,45228,Cincinnati,Ohio,TRUE,Midwest,ported,23.23,52
+10249,Huntlee,McKie,Male,3/14/2001,98175,Seattle,Washington,FALSE,PacificCoastal,ported,47.97,18
+10250,Nannie,Podd,Female,6/17/1969,88553,El Paso,Texas,TRUE,Southwest,ported,18.48,50
+10251,Cooper,Thom,Male,10/3/1957,10110,New York City,New York,TRUE,Mid-atlantic,new,18.08,61
+10252,Nydia,De Cruz,Female,4/11/1961,45999,Cincinnati,Ohio,TRUE,Midwest,ported,35.99,58
+10253,Bridgette,Fuentes,Female,2/24/2006,2912,Providence,Rhode Island,TRUE,New-England,new,49.43,13
+10254,Maryjane,Peealess,Female,10/28/1973,60636,Chicago,Illinois,FALSE,Midwest,new,35.28,45
+10255,Leigh,Jerrolt,Male,2/24/1967,32969,Vero Beach,Florida,TRUE,Southern,new,14.95,52
+10256,Debby,Seargeant,Female,11/15/1978,10170,New York City,New York,TRUE,Mid-atlantic,ported,58.3,40
+10257,Julee,Blucher,Female,8/8/1976,19125,Philadelphia,Pennsylvania,TRUE,Mid-atlantic,new,14.23,42
+10258,Amos,Blees,Male,10/27/1992,90805,Long Beach,California,FALSE,PacificCoastal,ported,40.34,26
+10259,Mariya,Pepperd,Female,10/19/1964,37405,Chattanooga,Tennessee,TRUE,Southern,ported,54.29,54
+10260,Konrad,Jansson,Male,10/8/1978,75367,Dallas,Texas,FALSE,Southwest,new,4.72,40
+10261,Baird,Ebben,Male,4/19/1974,10292,New York City,New York,TRUE,Mid-atlantic,new,14.57,45
+10262,Doro,Penhall,Female,6/22/1999,19120,Philadelphia,Pennsylvania,TRUE,Mid-atlantic,new,39.87,20
+10263,Stanislaw,Lysaght,Male,8/27/2002,20425,Washington,District of Columbia,FALSE,Southern,new,12.64,16
+10264,Rowe,Gorch,Female,6/8/1975,48242,Detroit,Michigan,FALSE,Midwest,new,2.83,44
+10265,Rochester,Kleinber,Male,9/29/1954,60609,Chicago,Illinois,TRUE,Midwest,ported,14.86,64
+10266,Cori,Patzelt,Male,8/18/1957,55811,Duluth,Minnesota,FALSE,Midwest,new,42.26,61
+10267,Troy,Birbeck,Male,6/13/1968,77030,Houston,Texas,TRUE,Southwest,ported,22.85,51
+10268,Mellisent,Waterhowse,Female,3/30/1995,33686,Tampa,Florida,TRUE,Southern,ported,16.74,24
+10269,Thaddeus,Fatharly,Male,7/29/1955,98206,Everett,Washington,FALSE,PacificCoastal,ported,20.4,64
+10270,Jamill,Mecchi,Male,10/4/1988,6912,Stamford,Connecticut,TRUE,New-England,new,50.29,30
+10271,Mickey,Norwood,Male,1/9/1982,95118,San Jose,California,FALSE,PacificCoastal,ported,31.04,37
+10272,Martelle,Bramont,Female,4/15/1954,88546,El Paso,Texas,TRUE,Southwest,new,45.31,65
+10273,Tailor,Wemm,Male,5/22/1958,70033,Metairie,Louisiana,TRUE,Southern,new,8.78,61
+10274,Donielle,Rampling,Female,9/22/1987,10280,New York City,New York,TRUE,Mid-atlantic,new,19.95,31
+10275,Dredi,Mordie,Female,9/10/1973,91499,Van Nuys,California,TRUE,PacificCoastal,ported,30.49,45
+10276,Grantley,Ivatt,Male,8/21/1965,78778,Austin,Texas,TRUE,Southwest,ported,10.02,53
+10277,Cara,Leak,Female,3/21/1983,92668,Orange,California,FALSE,PacificCoastal,ported,24.17,36
+10278,Mella,Marien,Female,9/16/1954,72204,Little Rock,Arkansas,TRUE,Southern,ported,11.29,64
+10279,Patty,Avrahm,Female,4/15/1972,31410,Savannah,Georgia,TRUE,Southern,ported,7.3,47
+10280,Gae,Sturton,Female,9/26/1964,94302,Palo Alto,California,FALSE,PacificCoastal,new,18.28,54
+10281,Inigo,Varvell,Male,12/18/1982,94164,San Francisco,California,FALSE,PacificCoastal,ported,28.58,36
+10282,Hugh,Standish,Male,4/23/1988,90081,Los Angeles,California,TRUE,PacificCoastal,ported,7.94,31
+10283,Charyl,Millett,Female,7/19/2004,89130,Las Vegas,Nevada,TRUE,RockyMountain,ported,38.32,15
+10284,Skelly,Ganing,Male,7/14/1979,77065,Houston,Texas,TRUE,Southwest,ported,23.69,40
+10285,Hatty,Colisbe,Female,3/26/1997,75265,Dallas,Texas,FALSE,Southwest,new,1.89,22
+10286,Wolf,Postill,Male,3/8/1983,76544,Killeen,Texas,TRUE,Southwest,ported,43.04,36
+10287,Abagail,Aldwick,Female,6/16/1987,6105,Hartford,Connecticut,TRUE,New-England,ported,56.48,32
+10288,Cedric,Sprankling,Male,6/29/1962,40287,Louisville,Kentucky,TRUE,Southern,new,19.2,57
+10289,Jermaine,Olenov,Male,12/11/1983,20029,Washington,District of Columbia,TRUE,Southern,new,32.28,35
+10290,Basilio,Robertet,Male,5/9/1955,67236,Wichita,Kansas,TRUE,Midwest,ported,58.05,64
+10291,Harri,Oliva,Female,6/17/2000,58122,Fargo,North Dakota,TRUE,Midwest,ported,33.89,19
+10292,Jenilee,Garmons,Female,10/16/1975,95210,Stockton,California,TRUE,PacificCoastal,ported,26.91,43
+10293,Claiborne,Kollas,Male,6/17/1987,73104,Oklahoma City,Oklahoma,TRUE,Southwest,ported,47.44,32
+10294,Tamar,Dungey,Female,8/13/1979,79105,Amarillo,Texas,TRUE,Southwest,new,57.71,39
+10295,Lelah,Senchenko,Female,8/7/1981,47712,Evansville,Indiana,TRUE,Midwest,new,19.93,37
+10296,Marj,Ungaretti,Female,4/14/1964,20195,Reston,Virginia,TRUE,Southern,ported,25.24,55
+10297,Sandro,Aubert,Male,3/7/1995,20205,Washington,District of Columbia,TRUE,Southern,new,30.34,24
+10298,Ruthanne,Johanchon,Female,12/21/1986,87180,Albuquerque,New Mexico,TRUE,Southwest,new,51.65,32
+10299,Laura,Devennie,Female,5/29/1967,78732,Austin,Texas,TRUE,Southwest,ported,4.39,52
+10300,Korney,Warke,Female,2/19/1961,95219,Stockton,California,TRUE,PacificCoastal,new,32.76,58
+10301,Dodie,Culvey,Female,8/19/1973,63143,Saint Louis,Missouri,FALSE,Midwest,new,24.05,45
+10302,Helene,Abramovic,Female,1/19/1972,27605,Raleigh,North Carolina,TRUE,Southern,new,12.84,47
+10303,Gianna,Helgass,Female,3/1/1955,27150,Winston Salem,North Carolina,TRUE,Southern,new,4.72,64
+10304,Emylee,Ghilardini,Female,8/6/1977,46699,South Bend,Indiana,TRUE,Midwest,new,31.32,41
+10305,Yevette,Olcot,Female,3/8/2006,20195,Reston,Virginia,TRUE,Southern,ported,8.73,13
+10306,Louisa,Tiler,Female,10/18/1996,78754,Austin,Texas,TRUE,Southwest,ported,21.24,22
+10307,Shermie,Byforth,Male,5/4/2003,27658,Raleigh,North Carolina,FALSE,Southern,new,8.75,16
+10308,Abigail,Botly,Female,12/28/1966,95118,San Jose,California,TRUE,PacificCoastal,ported,54.41,52
+10309,Lancelot,Showte,Male,3/27/1979,80255,Denver,Colorado,TRUE,RockyMountain,ported,25.93,40
+10310,Forbes,Jewiss,Male,10/13/1972,20508,Washington,District of Columbia,TRUE,Southern,ported,52.06,46
+10311,Shep,Annott,Male,9/1/1983,4109,Portland,Maine,TRUE,New-England,ported,38.62,35
+10312,Turner,Sowrey,Male,7/28/1994,45264,Cincinnati,Ohio,FALSE,Midwest,new,48.36,25
+10313,Humfrid,Fawdrie,Male,11/4/1959,40576,Lexington,Kentucky,TRUE,Southern,new,15.62,59
+10314,Ingra,Slater,Male,2/11/1982,71307,Alexandria,Louisiana,TRUE,Southern,ported,6.64,37
+10315,Alaine,Beggs,Female,9/12/1958,33462,Lake Worth,Florida,TRUE,Southern,ported,41.56,60
+10316,Lowrance,Croydon,Male,11/2/1970,78220,San Antonio,Texas,FALSE,Southwest,new,40.86,48
+10317,Goldi,Sackes,Female,4/27/1978,34238,Sarasota,Florida,TRUE,Southern,ported,51.91,41
+10318,Kinny,Matten,Male,5/14/2004,10469,Bronx,New York,FALSE,Mid-atlantic,ported,21.47,15
+10319,Susann,Beverley,Female,2/21/2005,73124,Oklahoma City,Oklahoma,TRUE,Southwest,ported,45.4,14
+10320,Geralda,Sandbatch,Female,4/2/1960,1114,Springfield,Massachusetts,FALSE,New-England,ported,13.81,59
+10321,Amelina,Robb,Female,1/22/1991,25705,Huntington,West Virginia,TRUE,Southern,new,27.02,28
+10322,Moshe,Rolance,Male,2/8/2004,33325,Fort Lauderdale,Florida,TRUE,Southern,ported,16.89,15
+10323,Morgan,Sworn,Male,7/19/1991,83711,Boise,Idaho,FALSE,RockyMountain,ported,32.37,28
+10324,Raimundo,Mandrier,Male,11/4/1959,84170,Salt Lake City,Utah,TRUE,RockyMountain,new,38.84,59
+10325,Valaria,Rosiello,Female,12/28/2000,14269,Buffalo,New York,TRUE,Mid-atlantic,new,18.08,18
+10326,Adora,Alsobrook,Female,6/13/1963,23612,Newport News,Virginia,FALSE,Southern,ported,6.7,56
+10327,Staffard,Killigrew,Male,2/5/1994,72199,North Little Rock,Arkansas,TRUE,Southern,new,19.17,25
+10328,Reta,Abelwhite,Female,12/27/1972,85710,Tucson,Arizona,FALSE,Southwest,new,25.43,46
+10329,Arlene,Chiechio,Female,5/28/1955,32627,Gainesville,Florida,TRUE,Southern,new,5.13,64
+10330,Urban,Larrie,Male,7/5/1964,22225,Arlington,Virginia,TRUE,Southern,ported,7.66,55
+10331,Wynn,Martello,Male,11/30/1986,30368,Atlanta,Georgia,TRUE,Southern,new,4.08,32
+10332,Curcio,Tyce,Male,5/12/1985,94522,Concord,California,TRUE,PacificCoastal,new,2.28,34
+10333,Padraig,Karpychev,Male,10/24/1999,33605,Tampa,Florida,FALSE,Southern,ported,36.05,19
+10334,Edsel,Farrey,Male,12/20/1968,2305,Brockton,Massachusetts,TRUE,New-England,ported,16.64,50
+10335,Peri,Biddulph,Female,11/6/1959,65105,Jefferson City,Missouri,FALSE,Midwest,ported,51.24,59
+10336,Norbie,O'Meara,Male,2/3/2004,35805,Huntsville,Alabama,TRUE,Southern,new,37.57,15
+10337,Saunder,Firsby,Male,5/16/1990,60669,Chicago,Illinois,FALSE,Midwest,new,6.65,29
+10338,Harper,Twomey,Male,6/24/1972,44710,Canton,Ohio,FALSE,Midwest,ported,58.36,47
+10339,Shelbi,Snelson,Female,7/19/1986,76134,Fort Worth,Texas,TRUE,Southwest,ported,24.01,33
+10340,Chas,De Vaux,Male,9/5/1969,40505,Lexington,Kentucky,FALSE,Southern,new,31.04,49
+10341,Allegra,Sainte Paul,Female,3/21/1987,20215,Washington,District of Columbia,TRUE,Southern,ported,43.53,32
+10342,Stafani,Neave,Female,5/14/2003,28055,Gastonia,North Carolina,TRUE,Southern,new,44.56,16
+10343,Dayle,Lefridge,Female,5/16/1964,79968,El Paso,Texas,TRUE,Southwest,new,58.48,55
+10344,Lianna,Guyan,Female,7/3/2005,20057,Washington,District of Columbia,FALSE,Southern,ported,44.79,14
+10345,Lionello,Gansbuhler,Male,3/14/1967,90050,Los Angeles,California,TRUE,PacificCoastal,new,13.76,52
+10346,Rosina,McDoual,Female,8/30/2006,30919,Augusta,Georgia,FALSE,Southern,new,2.83,12
+10347,Francklin,Bertholin,Male,4/29/1978,73147,Oklahoma City,Oklahoma,FALSE,Southwest,ported,41.4,41
+10348,Gus,Bilton,Female,12/14/1977,15225,Pittsburgh,Pennsylvania,TRUE,Mid-atlantic,ported,41.73,41
+10349,Brian,Bedow,Male,7/6/1970,22301,Alexandria,Virginia,FALSE,Southern,ported,37.67,49
+10350,Marji,Grichukhin,Female,6/11/1989,20530,Washington,District of Columbia,TRUE,Southern,ported,50.46,30
+10351,Ailee,Jerdein,Female,6/27/1993,34949,Fort Pierce,Florida,FALSE,Southern,ported,45.88,26
+10352,Lisle,Bowstead,Male,10/26/2004,52245,Iowa City,Iowa,TRUE,Midwest,ported,16.04,14
+10353,Dido,Hayhoe,Female,12/5/1981,28225,Charlotte,North Carolina,FALSE,Southern,new,34.31,37
+10354,Junina,McTear,Female,5/10/1984,47805,Terre Haute,Indiana,TRUE,Midwest,ported,24.7,35
+10355,Renault,Longfellow,Male,12/16/1998,25389,Charleston,West Virginia,TRUE,Southern,ported,25.65,20
+10356,Juana,Krelle,Female,5/23/2002,30351,Atlanta,Georgia,TRUE,Southern,ported,54.82,17
+10357,Austina,Hendrickx,Female,9/18/1971,55905,Rochester,Minnesota,FALSE,Midwest,ported,55.73,47
+10358,Eugenius,Edis,Male,1/22/1965,10260,New York City,New York,TRUE,Mid-atlantic,new,58.19,54
+10359,Car,Darington,Male,2/18/1973,60641,Chicago,Illinois,TRUE,Midwest,new,18.76,46
+10360,Tandie,Rixon,Female,10/2/1969,95108,San Jose,California,TRUE,PacificCoastal,new,29.19,49
+10361,Desirae,Liebrecht,Female,4/15/1954,18768,Wilkes Barre,Pennsylvania,TRUE,Mid-atlantic,new,35.47,65
+10362,Paula,Donahue,Female,11/24/1986,27605,Raleigh,North Carolina,TRUE,Southern,new,58.17,32
+10363,Clemmy,Lewis,Female,6/6/1966,94137,San Francisco,California,TRUE,PacificCoastal,new,2.35,53
+10364,Chere,Daintrey,Female,4/6/1986,61629,Peoria,Illinois,FALSE,Midwest,ported,52.95,33
+10365,Gena,Cheney,Female,2/25/1983,14215,Buffalo,New York,FALSE,Mid-atlantic,ported,53.78,36
+10366,Bo,Gres,Male,11/4/1987,10045,New York City,New York,TRUE,Mid-atlantic,ported,13.47,31
+10367,Laurens,Punt,Male,8/18/1990,91131,Pasadena,California,TRUE,PacificCoastal,new,57.42,28
+10368,Hermione,McLauchlin,Female,8/25/1966,10203,New York City,New York,TRUE,Mid-atlantic,ported,21.01,52
+10369,Natty,Dibley,Male,9/19/1983,23285,Richmond,Virginia,TRUE,Southern,ported,45.89,35
+10370,Brucie,Zanetto,Male,4/20/1964,92105,San Diego,California,FALSE,PacificCoastal,ported,14.66,55
+10371,Daryle,Barnes,Male,9/13/1984,29305,Spartanburg,South Carolina,TRUE,Southern,new,33.29,34
+10372,Roma,Ludee,Male,12/6/1999,95838,Sacramento,California,TRUE,PacificCoastal,new,54.25,19
+10373,Jeane,Betty,Female,5/20/1986,91505,Burbank,California,TRUE,PacificCoastal,new,16.97,33
+10374,Ricard,Flatt,Male,3/17/1954,53220,Milwaukee,Wisconsin,FALSE,Midwest,new,59.68,65
+10375,Junie,Rickert,Female,7/5/1964,33436,Boynton Beach,Florida,TRUE,Southern,ported,35.49,55
+10376,Jamison,Poschel,Male,12/19/1972,40210,Louisville,Kentucky,FALSE,Southern,ported,44.96,46
+10377,Nathaniel,Humbee,Male,5/13/1954,48275,Detroit,Michigan,TRUE,Midwest,ported,33.92,65
+10378,Merry,Osmond,Female,10/22/1963,31296,Macon,Georgia,FALSE,Southern,ported,30.65,55
+10379,Kaine,Liccardi,Male,10/25/1998,2912,Providence,Rhode Island,TRUE,New-England,new,1.88,20
+10380,Christabella,Kopf,Female,8/28/1980,83722,Boise,Idaho,FALSE,RockyMountain,ported,27.58,38
+10381,Laughton,Jennick,Male,3/22/1975,14905,Elmira,New York,FALSE,Mid-atlantic,ported,20.32,44
+10382,Stirling,Lerego,Male,5/9/1987,70160,New Orleans,Louisiana,FALSE,Southern,new,28.66,32
+10383,Nickolaus,Winstone,Male,7/6/1964,92105,San Diego,California,TRUE,PacificCoastal,new,18.92,55
+10384,Sybille,O'Lagen,Female,2/14/1976,89135,Las Vegas,Nevada,FALSE,RockyMountain,new,35.63,43
+10385,Howie,Seller,Male,9/21/1990,27658,Raleigh,North Carolina,TRUE,Southern,ported,52.42,28
+10386,Rois,Simnett,Female,4/21/1972,78225,San Antonio,Texas,FALSE,Southwest,ported,40.37,47
+10387,Valera,Harcourt,Female,12/18/1980,11236,Brooklyn,New York,TRUE,Mid-atlantic,ported,49.84,38
+10388,Liesa,Glowacha,Female,8/22/1994,33164,Miami,Florida,TRUE,Southern,new,55.44,24
+10389,Hillery,Rapson,Male,11/18/1978,55436,Minneapolis,Minnesota,TRUE,Midwest,ported,23.46,40
+10390,Nona,Hallgate,Female,3/26/1988,83405,Idaho Falls,Idaho,FALSE,RockyMountain,ported,24.5,31
+10391,Jarid,Bernardoni,Male,2/2/2002,45490,Dayton,Ohio,TRUE,Midwest,ported,18.63,17
+10392,Cassondra,Ruste,Female,1/21/1983,25313,Charleston,West Virginia,TRUE,Southern,ported,15.35,36
+10393,Carola,Brandli,Female,12/19/1984,78291,San Antonio,Texas,TRUE,Southwest,ported,15.76,34
+10394,Hasty,Culwen,Male,2/21/1978,55564,Young America,Minnesota,FALSE,Midwest,new,30.33,41
+10395,Anna-diane,Strathman,Female,8/26/1963,8650,Trenton,New Jersey,FALSE,Mid-atlantic,new,23.66,55
+10396,Kamillah,Ogger,Female,6/17/1992,45249,Cincinnati,Ohio,TRUE,Midwest,ported,5.74,27
+10397,Kimmi,O' Mullane,Female,6/9/1959,88589,El Paso,Texas,TRUE,Southwest,ported,30.86,60
+10398,Theda,Scholefield,Female,6/6/2003,95865,Sacramento,California,TRUE,PacificCoastal,new,36.92,16
+10399,Findlay,Vaneschi,Male,12/3/1971,94273,Sacramento,California,TRUE,PacificCoastal,ported,52.13,47
+10400,Ernestus,Good,Male,3/15/1979,71161,Shreveport,Louisiana,FALSE,Southern,new,48.05,40
+10401,Tawnya,Monument,Female,3/3/1977,18768,Wilkes Barre,Pennsylvania,TRUE,Mid-atlantic,new,33.27,42
+10402,Una,Passfield,Female,7/17/1958,66286,Shawnee Mission,Kansas,TRUE,Midwest,new,5.63,61
+10403,Darice,Oldrey,Female,2/21/2000,34745,Kissimmee,Florida,TRUE,Southern,new,44.06,19
+10404,Tasia,Gatsby,Female,4/13/1987,2163,Boston,Massachusetts,TRUE,New-England,new,17.36,32
+10405,Stuart,Woller,Male,11/20/1995,29615,Greenville,South Carolina,TRUE,Southern,new,54.83,23
+10406,Edwin,Tirrey,Male,9/16/1967,95298,Stockton,California,TRUE,PacificCoastal,ported,19.71,51
+10407,Belia,Kiessel,Female,11/21/1985,71137,Shreveport,Louisiana,TRUE,Southern,ported,25.89,33
+10408,Gwynne,Whilde,Female,6/30/1972,28289,Charlotte,North Carolina,TRUE,Southern,new,27.98,47
+10409,Nickey,Paulton,Male,7/10/1961,93704,Fresno,California,TRUE,PacificCoastal,new,2.24,58
+10410,Glynnis,Edleston,Female,3/11/2004,77040,Houston,Texas,FALSE,Southwest,new,40.6,15
+10411,Stevie,May,Male,2/21/1990,44555,Youngstown,Ohio,FALSE,Midwest,new,34.76,29
+10412,Emory,Muzzillo,Male,9/9/1961,7195,Newark,New Jersey,TRUE,Mid-atlantic,ported,9.87,57
+10413,Cyril,Crollman,Male,9/5/1999,33405,West Palm Beach,Florida,FALSE,Southern,ported,37.52,19
+10414,Rolfe,Farnie,Male,9/14/1986,33467,Lake Worth,Florida,FALSE,Southern,ported,26.08,32
+10415,Levy,Ashe,Male,8/7/1980,38126,Memphis,Tennessee,TRUE,Southern,new,60.87,38
+10416,Bartolomeo,Morse,Male,4/5/1963,85710,Tucson,Arizona,TRUE,Southwest,ported,48.35,56
+10417,Cybil,Vallis,Female,11/21/2003,92668,Orange,California,TRUE,PacificCoastal,ported,50.82,15
+10418,Denys,Byford,Female,6/8/1977,33196,Miami,Florida,FALSE,Southern,new,31.99,42
+10419,Hamish,Skechley,Male,9/22/1970,36641,Mobile,Alabama,TRUE,Southern,new,8.38,48
+10420,Amil,Champney,Female,1/17/1967,48098,Troy,Michigan,FALSE,Midwest,new,10.06,52
+10421,Noel,Bunworth,Male,1/5/1977,45254,Cincinnati,Ohio,TRUE,Midwest,new,17.5,42
+10422,Willi,Sidry,Male,11/28/1998,10633,White Plains,New York,TRUE,Mid-atlantic,ported,43.12,20
+10423,Ursala,Kloster,Female,5/20/1955,85005,Phoenix,Arizona,TRUE,Southwest,ported,1.11,64
+10424,Howard,Hulkes,Male,6/30/1982,93591,Palmdale,California,TRUE,PacificCoastal,new,3.38,37
+10425,Antone,Heinssen,Male,5/21/1979,32813,Orlando,Florida,TRUE,Southern,ported,37.99,40
+10426,Auria,Brightman,Female,9/23/1955,65218,Columbia,Missouri,FALSE,Midwest,new,21.42,63
+10427,Cecily,Keneford,Female,5/3/1954,73104,Oklahoma City,Oklahoma,FALSE,Southwest,ported,5.67,65
+10428,Karilynn,Swaine,Female,12/15/1993,40581,Lexington,Kentucky,TRUE,Southern,new,40.45,25
+10429,Sim,Twallin,Male,8/14/1970,34611,Spring Hill,Florida,FALSE,Southern,new,13.73,48
+10430,Dehlia,Barnewell,Female,12/26/1994,99512,Bakersfield,California,TRUE,PacificCoastal,ported,34.8,24
+10431,Phaidra,Cowp,Female,4/26/1954,78255,San Antonio,Texas,TRUE,Southwest,new,2.83,65
+10432,Miran,Claypole,Female,10/4/1992,33129,Miami,Florida,TRUE,Southern,new,41.43,26
+10433,Keane,Stenyng,Male,1/18/1979,38109,Memphis,Tennessee,TRUE,Southern,new,29.79,40
+10434,Simmonds,Capelin,Male,10/1/1987,46825,Fort Wayne,Indiana,TRUE,Midwest,ported,8.49,31
+10435,Reinhard,Witchell,Male,10/7/1980,15220,Pittsburgh,Pennsylvania,FALSE,Mid-atlantic,ported,41.13,38
+10436,Irwinn,Ezzell,Male,6/17/1974,34981,Fort Pierce,Florida,TRUE,Southern,new,45.46,45
+10437,Michele,Scouler,Female,12/8/1973,8603,Trenton,New Jersey,TRUE,Mid-atlantic,new,21.59,45
+10438,Ray,Ghost,Male,8/15/1955,49505,Grand Rapids,Michigan,TRUE,Midwest,ported,35.17,63
+10439,Ranice,Rose,Female,5/16/1989,79764,Odessa,Texas,TRUE,Southwest,ported,36.02,30
+10440,Fabien,Leopold,Male,4/3/1965,75353,Dallas,Texas,FALSE,Southwest,ported,58.83,54
+10441,Suellen,Wileman,Female,4/30/1971,11854,Hicksville,New York,TRUE,Mid-atlantic,new,43.67,48
+10442,Cyndy,Boddice,Female,11/6/1978,10459,Bronx,New York,FALSE,Mid-atlantic,ported,21.64,40
+10443,Cal,Tuff,Female,12/31/1984,49018,Battle Creek,Michigan,TRUE,Midwest,new,35.02,34
+10444,Elicia,Outhwaite,Female,4/21/1957,83727,Boise,Idaho,FALSE,RockyMountain,new,27.69,62
+10445,Theadora,Goldingay,Female,11/21/1994,31405,Savannah,Georgia,TRUE,Southern,new,2.75,24
+10446,Debor,Ortes,Female,8/15/1998,28247,Charlotte,North Carolina,TRUE,Southern,ported,48.05,20
+10447,Wain,McCabe,Male,10/25/1997,33320,Fort Lauderdale,Florida,TRUE,Southern,ported,40.32,21
+10448,Joby,Cumbers,Female,3/12/1998,36689,Mobile,Alabama,TRUE,Southern,ported,11.62,21
+10449,Simon,Smallacombe,Male,5/27/2004,89145,Las Vegas,Nevada,TRUE,RockyMountain,new,33.76,15
+10450,Brandie,Trimbey,Female,6/19/1978,12247,Albany,New York,TRUE,Mid-atlantic,new,17.95,41
+10451,Carmen,Dionsetto,Female,2/28/1979,2119,Boston,Massachusetts,FALSE,New-England,ported,16.44,40
+10452,Bobbie,Goskar,Male,10/16/1972,79415,Lubbock,Texas,FALSE,Southwest,ported,58.2,46
+10453,Lisette,McGrann,Female,11/15/1986,29615,Greenville,South Carolina,TRUE,Southern,new,32.34,32
+10454,Sidney,Binnie,Male,1/28/1986,95118,San Jose,California,TRUE,PacificCoastal,new,13.24,33
+10455,Austin,Davidofski,Female,8/23/2003,30045,Lawrenceville,Georgia,TRUE,Southern,new,59.45,15
+10456,Rickert,Sheringham,Male,10/28/1983,33737,Saint Petersburg,Florida,TRUE,Southern,new,54.81,35
+10457,Merwyn,Golsthorp,Male,8/29/1965,11220,Brooklyn,New York,TRUE,Mid-atlantic,ported,24.52,53
+10458,Mead,Casemore,Male,4/13/1977,31119,Atlanta,Georgia,FALSE,Southern,ported,31.98,42
+10459,Rivkah,Gorst,Female,3/8/2006,94245,Sacramento,California,TRUE,PacificCoastal,ported,55.68,13
+10460,Vally,Ferrers,Female,11/17/2000,85284,Tempe,Arizona,TRUE,Southwest,ported,19.09,18
+10461,Kennith,Doerr,Male,1/9/1979,45426,Dayton,Ohio,TRUE,Midwest,ported,6.14,40
+10462,Alvis,Kloska,Male,8/17/1988,76210,Denton,Texas,FALSE,Southwest,new,3.61,30
+10463,Casar,Gorse,Male,3/10/1998,98411,Tacoma,Washington,TRUE,PacificCoastal,ported,59.58,21
+10464,Phillie,Wakes,Female,7/31/1971,40576,Lexington,Kentucky,TRUE,Southern,new,29.71,48
+10465,Felisha,Laurenz,Female,12/14/1959,6152,Hartford,Connecticut,TRUE,New-England,new,13.18,59
+10466,Thomasa,Artharg,Female,3/13/1973,68179,Omaha,Nebraska,TRUE,Midwest,new,44.47,46
+10467,Sande,Bignell,Female,12/10/2006,20022,Washington,District of Columbia,TRUE,Southern,new,17.49,12
+10468,Evyn,Schaumann,Male,8/20/1978,89105,Las Vegas,Nevada,TRUE,RockyMountain,new,12.72,40
+10469,Billye,Motton,Female,8/20/1973,65110,Jefferson City,Missouri,TRUE,Midwest,ported,40.48,45
+10470,Ardis,Palleske,Female,12/9/2006,95852,Sacramento,California,TRUE,PacificCoastal,ported,6.47,12
+10471,Kevina,Clabburn,Female,2/10/1977,44191,Cleveland,Ohio,TRUE,Midwest,ported,44.79,42
+10472,Myrwyn,Peddowe,Male,6/4/1997,94405,San Mateo,California,TRUE,PacificCoastal,ported,57.19,22
+10473,Marlene,Hearle,Female,11/1/1997,93150,Santa Barbara,California,TRUE,PacificCoastal,ported,1.85,21
+10474,Saunder,Kee,Male,3/25/1980,55172,Saint Paul,Minnesota,TRUE,Midwest,ported,29.05,39
+10475,Edgar,Gini,Male,12/26/2005,14233,Buffalo,New York,FALSE,Mid-atlantic,ported,7.07,13
+10476,Jerrine,Vallack,Female,6/5/1992,98664,Vancouver,Washington,TRUE,PacificCoastal,ported,34.24,27
+10477,Kalindi,McKendry,Female,4/24/1991,14263,Buffalo,New York,TRUE,Mid-atlantic,new,3.27,28
+10478,Diane,Bindley,Female,4/6/2004,20260,Washington,District of Columbia,TRUE,Southern,ported,17.94,15
+10479,Arabel,Rebbeck,Female,12/25/1985,93106,Santa Barbara,California,TRUE,PacificCoastal,ported,7.04,33
+10480,Samuel,Mingaye,Male,10/25/1974,95298,Stockton,California,FALSE,PacificCoastal,new,40.06,44
+10481,Addi,Norheny,Female,7/18/1973,6726,Waterbury,Connecticut,TRUE,New-England,new,23.27,46
+10482,Evangeline,Parke,Female,4/28/2002,34643,Largo,Florida,TRUE,Southern,ported,46.68,17
+10483,Claudianus,Kemwal,Male,5/19/1987,60652,Chicago,Illinois,TRUE,Midwest,ported,1.39,32
+10484,Chen,Wreiford,Male,7/23/2000,85099,Phoenix,Arizona,TRUE,Southwest,ported,1.44,19
+10485,Eartha,Redd,Female,5/29/1965,93399,Bakersfield,California,TRUE,PacificCoastal,ported,11.85,54
+10486,Roze,Hughlin,Female,10/18/1992,89125,Las Vegas,Nevada,TRUE,RockyMountain,ported,53.74,26
+10487,Aimil,Picheford,Female,10/10/1983,89550,Reno,Nevada,FALSE,RockyMountain,new,3.92,35
+10488,Ilsa,Teresi,Female,2/21/2004,35263,Birmingham,Alabama,TRUE,Southern,ported,5.27,15
+10489,Nan,Bouldstridge,Female,6/21/1967,89714,Carson City,Nevada,FALSE,RockyMountain,ported,57.66,52
+10490,Sibbie,Ashmore,Female,10/28/1983,89087,North Las Vegas,Nevada,TRUE,RockyMountain,ported,12.91,35
+10491,Guido,Sargint,Male,7/4/1987,91797,Pomona,California,TRUE,PacificCoastal,ported,37.06,32
+10492,Gertrudis,Dudin,Female,9/29/1978,15274,Pittsburgh,Pennsylvania,FALSE,Mid-atlantic,ported,23.07,40
+10493,Purcell,Joice,Male,4/30/1996,92013,Carlsbad,California,TRUE,PacificCoastal,ported,56.28,23
+10494,Bax,Davie,Male,8/2/1977,33680,Tampa,Florida,TRUE,Southern,new,16.6,42
+10495,Gabriele,Gillopp,Male,9/14/1988,77201,Houston,Texas,FALSE,Southwest,new,36.14,30
+10496,Man,Kofax,Male,11/28/1979,98447,Tacoma,Washington,TRUE,PacificCoastal,ported,4.41,39
+10497,Urbanus,Michelotti,Male,4/21/2001,43610,Toledo,Ohio,TRUE,Midwest,ported,60.96,18
+10498,Opal,Dockray,Female,5/23/1979,95823,Sacramento,California,FALSE,PacificCoastal,new,60.78,40
+10499,Shelagh,Paike,Female,7/28/1988,10125,New York City,New York,TRUE,Mid-atlantic,new,47.55,31
+10500,Waverley,Rodriguez,Male,10/3/1990,20851,Rockville,Maryland,FALSE,Southern,ported,53.41,28
+10501,Richy,Skamell,Male,5/21/1962,89505,Reno,Nevada,TRUE,RockyMountain,new,29.4,57
+10502,Val,Hyslop,Female,5/30/1974,97296,Portland,Oregon,TRUE,PacificCoastal,new,24.56,45
+10503,Leanora,Iiannone,Female,7/1/1985,77554,Galveston,Texas,FALSE,Southwest,new,41.86,34
+10504,Mareah,Murtell,Female,4/10/1962,32209,Jacksonville,Florida,TRUE,Southern,ported,36.66,57
+10505,Winni,Nelligan,Female,1/19/1989,25356,Charleston,West Virginia,FALSE,Southern,new,27.73,30
+10506,Karlene,Swinden,Female,10/11/1962,33680,Tampa,Florida,FALSE,Southern,ported,31.69,56
+10507,Dave,Canlin,Male,7/24/1969,33175,Miami,Florida,TRUE,Southern,ported,48.21,50
+10508,Jerrilyn,Heinschke,Female,3/25/1975,16505,Erie,Pennsylvania,TRUE,Mid-atlantic,new,56.48,44
+10509,Gav,McNeely,Male,3/12/1965,46247,Indianapolis,Indiana,TRUE,Midwest,ported,48.4,54
+10510,Abe,Bransby,Male,5/9/1990,54305,Green Bay,Wisconsin,TRUE,Midwest,new,60.55,29
+10511,Paul,Danniel,Male,7/28/1965,80223,Denver,Colorado,TRUE,RockyMountain,new,3.89,54
+10512,Luigi,Paggitt,Male,1/3/1975,76544,Killeen,Texas,TRUE,Southwest,new,17.22,44
+10513,Kettie,Glave,Female,4/28/1977,26505,Morgantown,West Virginia,FALSE,Southern,new,53.33,42
+10514,Illa,Castaignet,Female,11/30/1959,78265,San Antonio,Texas,TRUE,Southwest,ported,13.39,59
+10515,Lemuel,Biggerdike,Male,8/19/1968,20051,Washington,District of Columbia,FALSE,Southern,ported,41.88,50
+10516,Dominik,Baumadier,Male,9/21/1973,98481,Tacoma,Washington,TRUE,PacificCoastal,new,26.01,45
+10517,Barr,Gheorghe,Male,2/23/1997,46634,South Bend,Indiana,TRUE,Midwest,new,28.23,22
+10518,Dottie,Ashwell,Female,12/24/1990,31405,Savannah,Georgia,TRUE,Southern,ported,58.51,28
+10519,Padriac,Woollacott,Male,12/10/1960,21747,Hagerstown,Maryland,TRUE,Southern,new,49.03,58
+10520,Morgen,Rickword,Female,4/25/1987,21705,Frederick,Maryland,FALSE,Southern,new,17.66,32
+10521,Hy,De Cleen,Male,2/5/2005,19151,Philadelphia,Pennsylvania,FALSE,Mid-atlantic,ported,52.54,14
+10522,Antonino,Doe,Male,7/19/2004,72916,Fort Smith,Arkansas,TRUE,Southern,new,18.45,15
+10523,Elysia,Baert,Female,10/5/1956,99210,Spokane,Washington,TRUE,PacificCoastal,ported,50.98,62
+10524,Stillmann,Doddridge,Male,2/22/1955,34985,Port Saint Lucie,Florida,FALSE,Southern,ported,30.16,64
+10525,Sydel,Tait,Female,5/12/1998,79940,El Paso,Texas,FALSE,Southwest,new,9.24,21
+10526,Wilmar,Impey,Male,2/14/1978,11044,New Hyde Park,New York,FALSE,Mid-atlantic,new,27.71,41
+10527,Kile,Bruckmann,Male,6/17/1962,6859,Norwalk,Connecticut,TRUE,New-England,ported,26.61,57
+10528,Anabal,Kensall,Female,12/27/2004,66629,Topeka,Kansas,FALSE,Midwest,new,50.61,14
+10529,Kerri,De Bruyne,Female,7/24/1981,20210,Washington,District of Columbia,FALSE,Southern,ported,48.98,38
+10530,Antonetta,Donnelly,Female,8/1/1970,94544,Hayward,California,TRUE,PacificCoastal,new,24.95,49
+10531,Lionel,Naris,Male,8/29/2005,73129,Oklahoma City,Oklahoma,TRUE,Southwest,new,27.76,13
+10532,Francklin,McCrone,Male,11/29/1976,84409,Ogden,Utah,TRUE,RockyMountain,new,26.4,42
+10533,Ema,Gianasi,Female,4/19/1958,30336,Atlanta,Georgia,FALSE,Southern,new,44.97,61
+10534,Cal,Randle,Male,8/13/1972,62776,Springfield,Illinois,TRUE,Midwest,ported,10.89,46
+10535,Bella,Beldum,Female,2/22/1973,75210,Dallas,Texas,FALSE,Southwest,new,35.98,46
+10536,Filberte,Dalglish,Male,8/7/1982,90081,Los Angeles,California,TRUE,PacificCoastal,ported,59.1,36
+10537,Zebulen,Cobbing,Male,5/2/1995,74193,Tulsa,Oklahoma,FALSE,Southwest,new,59.51,24
+10538,Nicola,Gaven,Female,11/14/1989,27626,Raleigh,North Carolina,FALSE,Southern,ported,41.95,29
+10539,Giulia,Woodhead,Female,4/7/1997,15286,Pittsburgh,Pennsylvania,FALSE,Mid-atlantic,ported,6.85,22
+10540,Eada,Girodon,Female,11/22/1992,53779,Madison,Wisconsin,TRUE,Midwest,ported,3.4,26
+10541,Shelden,Braisted,Male,10/14/1969,34620,Clearwater,Florida,TRUE,Southern,ported,11.54,49
+10542,Merlina,Deroche,Female,7/22/1973,8619,Trenton,New Jersey,TRUE,Mid-atlantic,new,58.26,46
+10543,Selestina,Brangan,Female,1/14/1958,95818,Sacramento,California,TRUE,PacificCoastal,ported,50.44,61
+10544,Mattie,Scrivener,Female,2/1/1978,48232,Detroit,Michigan,TRUE,Midwest,new,9.31,41
+10545,Pen,Kitchener,Female,3/31/2001,85030,Phoenix,Arizona,TRUE,Southwest,new,34.61,18
+10546,Benedikt,Plessing,Male,1/3/1997,84403,Ogden,Utah,TRUE,RockyMountain,new,17.62,22
+10547,Carlie,Scargill,Male,4/10/1974,33610,Tampa,Florida,TRUE,Southern,new,58.44,45
+10548,Iosep,Penrose,Male,3/9/2002,40591,Lexington,Kentucky,TRUE,Southern,new,48.37,17
+10549,Lise,Sarjeant,Female,7/20/2002,95973,Chico,California,FALSE,PacificCoastal,new,32.5,17
+10550,Merla,Toretta,Female,8/9/1980,70607,Lake Charles,Louisiana,FALSE,Southern,new,55.27,38
+10551,Franky,Abby,Male,2/2/1983,98464,Tacoma,Washington,TRUE,PacificCoastal,new,54.2,36
+10552,Baxy,Dowsett,Male,3/25/1982,2405,Brockton,Massachusetts,TRUE,New-England,new,49.64,37
+10553,Sacha,Brunicke,Female,12/14/1959,20599,Washington,District of Columbia,FALSE,Southern,new,2.11,59
+10554,Bernadina,John,Female,12/4/1974,28247,Charlotte,North Carolina,TRUE,Southern,new,8.83,44
+10555,Antony,Carlsen,Male,10/15/1980,60208,Evanston,Illinois,TRUE,Midwest,new,55.66,38
+10556,Marthena,Newtown,Female,8/6/1989,92415,San Bernardino,California,TRUE,PacificCoastal,new,5.06,29
+10557,Ferguson,Keys,Male,9/25/1959,92505,Riverside,California,TRUE,PacificCoastal,ported,17.49,59
+10558,Nickie,Blackwood,Male,7/7/1997,92862,Orange,California,TRUE,PacificCoastal,new,21.17,22
+10559,Kalila,Coning,Female,12/23/1981,34108,Naples,Florida,TRUE,Southern,new,34.51,37
+10560,Roger,MacTavish,Male,1/31/1958,60193,Schaumburg,Illinois,TRUE,Midwest,ported,39.36,61
+10561,Mimi,Bridgestock,Female,1/29/2004,20370,Washington,District of Columbia,FALSE,Southern,ported,54.18,15
+10562,Angelle,Bachura,Female,12/23/1992,55565,Monticello,Minnesota,TRUE,Midwest,ported,7.42,26
+10563,Gael,Dedon,Female,4/19/1959,14646,Rochester,New York,TRUE,Mid-atlantic,new,10.54,60
+10564,Berthe,Skedge,Female,10/22/1997,78783,Austin,Texas,TRUE,Southwest,ported,8.32,21
+10565,Briggs,Hirth,Male,6/7/1967,36104,Montgomery,Alabama,TRUE,Southern,new,22.09,52
+10566,Catherine,Linsley,Female,9/30/1970,23514,Norfolk,Virginia,TRUE,Southern,new,43.18,48
+10567,Nigel,Petrillo,Male,7/13/2003,46852,Fort Wayne,Indiana,TRUE,Midwest,new,4.61,16
+10568,Rebbecca,Moscone,Female,10/30/1981,63116,Saint Louis,Missouri,TRUE,Midwest,ported,3.02,37
+10569,Mariska,Rookes,Female,2/17/2000,31904,Columbus,Georgia,FALSE,Southern,new,13.48,19
+10570,Vaclav,Gude,Male,10/24/1957,20551,Washington,District of Columbia,TRUE,Southern,ported,48,61
+10571,Finlay,Jachimczak,Male,10/22/1955,90010,Los Angeles,California,FALSE,PacificCoastal,new,21.12,63
+10572,Inessa,Mugglestone,Female,11/16/1984,70815,Baton Rouge,Louisiana,TRUE,Southern,new,40.36,34
+10573,Dru,Stranger,Female,9/15/1975,74126,Tulsa,Oklahoma,FALSE,Southwest,ported,19.33,43
+10574,Phillis,Pallesen,Female,5/2/1955,99215,Spokane,Washington,TRUE,PacificCoastal,ported,26.31,64
+10575,Corabel,Skerme,Female,3/2/1964,33305,Fort Lauderdale,Florida,FALSE,Southern,ported,35.79,55
+10576,Vick,Tosspell,Male,3/9/1994,11254,Brooklyn,New York,TRUE,Mid-atlantic,new,32.81,25
+10577,Towney,Servante,Male,6/25/1996,76505,Temple,Texas,FALSE,Southwest,ported,23.7,23
+10578,Launce,Cinderey,Male,12/11/1991,85754,Tucson,Arizona,TRUE,Southwest,ported,13.42,27
+10579,Jake,Lochran,Male,7/28/1996,37605,Johnson City,Tennessee,TRUE,Southern,new,29.8,23
+10580,Roselle,Benez,Female,10/9/2004,14269,Buffalo,New York,TRUE,Mid-atlantic,ported,50.01,14
+10581,Marmaduke,Falconer,Male,4/26/1995,20918,Silver Spring,Maryland,TRUE,Southern,new,46.79,24
+10582,Sibel,Openshaw,Female,8/30/1966,20078,Washington,District of Columbia,TRUE,Southern,new,53.65,52
+10583,Johnathon,Swindells,Male,4/28/1963,99220,Spokane,Washington,FALSE,PacificCoastal,ported,37.26,56
+10584,Jandy,Nabarro,Female,6/1/1961,60351,Carol Stream,Illinois,FALSE,Midwest,new,40.75,58
+10585,Dannel,Iacobo,Male,1/17/1969,92662,Newport Beach,California,TRUE,PacificCoastal,new,6.53,50
+10586,Annamaria,O'Criane,Female,3/16/1974,95298,Stockton,California,TRUE,PacificCoastal,ported,32.42,45
+10587,Shepard,Petrovykh,Male,4/5/1964,77085,Houston,Texas,FALSE,Southwest,ported,4.57,55
+10588,Fidelity,Seeley,Female,7/29/2002,37931,Knoxville,Tennessee,FALSE,Southern,ported,12.25,17
+10589,Tedmund,Stone Fewings,Male,6/3/1966,28314,Fayetteville,North Carolina,TRUE,Southern,new,3.67,53
+10590,Barrie,Pawlicki,Female,11/16/1994,72199,North Little Rock,Arkansas,FALSE,Southern,ported,31.62,24
+10591,Agnes,Jotham,Female,1/31/1954,94291,Sacramento,California,TRUE,PacificCoastal,new,2.95,65
+10592,Glyn,Batte,Male,6/7/1975,75372,Dallas,Texas,FALSE,Southwest,ported,12.08,44
+10593,Gav,Blare,Male,10/20/1969,85083,Phoenix,Arizona,FALSE,Southwest,new,37.73,49
+10594,Broddy,Gravells,Male,5/28/1970,23459,Virginia Beach,Virginia,TRUE,Southern,new,47.06,49
+10595,Gearalt,Tewelson,Male,10/22/1996,39210,Jackson,Mississippi,FALSE,Southern,ported,22.14,22
+10596,Andree,Laffin,Female,11/1/1966,20420,Washington,District of Columbia,FALSE,Southern,ported,16.76,52
+10597,Blaine,Bennet,Male,8/6/2003,40591,Lexington,Kentucky,TRUE,Southern,new,34.99,15
+10598,Sheila-kathryn,Halbard,Female,10/24/1960,16550,Erie,Pennsylvania,TRUE,Mid-atlantic,new,48.42,58
+10599,Marleen,Meaking,Female,7/23/1980,94263,Sacramento,California,FALSE,PacificCoastal,ported,41.37,39
+10600,Kimberly,Emson,Female,6/19/1993,44710,Canton,Ohio,TRUE,Midwest,ported,11.18,26
+10601,Russ,Woolward,Male,2/25/1956,79159,Amarillo,Texas,FALSE,Southwest,new,45.61,63
+10602,Zach,Grebbin,Male,2/19/1981,55470,Minneapolis,Minnesota,TRUE,Midwest,ported,26.42,38
+10603,Bengt,Hunnywell,Male,4/12/1959,85260,Scottsdale,Arizona,TRUE,Southwest,ported,24.6,60
+10604,Arleen,Mixhel,Female,1/7/1990,31196,Atlanta,Georgia,TRUE,Southern,ported,36.32,29
+10605,Markos,Paliser,Male,9/13/1997,27615,Raleigh,North Carolina,TRUE,Southern,ported,53.53,21
+10606,Hank,Macon,Male,6/28/1983,39236,Jackson,Mississippi,TRUE,Southern,ported,9.64,36
+10607,Brendan,Billion,Male,7/10/1972,6705,Waterbury,Connecticut,TRUE,New-England,ported,31.35,47
+10608,Dalli,Schofield,Male,8/7/1999,75392,Dallas,Texas,TRUE,Southwest,new,21.15,19
+10609,Gilberta,Pfeiffer,Female,11/16/1976,76305,Wichita Falls,Texas,TRUE,Southwest,new,25.06,42
+10610,Elbertine,Blockley,Female,11/18/1976,80235,Denver,Colorado,TRUE,RockyMountain,new,33.28,42
+10611,Boote,Mohammed,Male,3/4/1980,78210,San Antonio,Texas,TRUE,Southwest,new,35.87,39
+10612,Griffin,Ferres,Male,4/28/1996,75397,Dallas,Texas,FALSE,Southwest,ported,27.09,23
+10613,Jourdain,Haffenden,Male,2/26/1975,20073,Washington,District of Columbia,TRUE,Southern,new,25.72,44
+10614,Merna,Cabrara,Female,11/16/1997,92805,Anaheim,California,TRUE,PacificCoastal,ported,26.74,21
+10615,Aubree,Jessope,Female,4/8/1981,2109,Boston,Massachusetts,FALSE,New-England,new,9.23,38
+10616,Worth,Ethelstone,Male,2/16/1959,75185,Mesquite,Texas,FALSE,Southwest,new,56.69,60
+10617,Kristoforo,Marle,Male,8/20/1960,47134,Jeffersonville,Indiana,TRUE,Midwest,new,42.51,58
+10618,Orelia,Getsham,Female,1/10/2004,92822,Brea,California,FALSE,PacificCoastal,ported,18.96,15
+10619,Sande,Curphey,Female,4/2/1997,25709,Huntington,West Virginia,TRUE,Southern,new,13.5,22
+10620,Rosetta,O'Lahy,Female,12/2/1995,40266,Louisville,Kentucky,TRUE,Southern,new,36.75,23
+10621,Langston,Burnes,Male,5/25/1990,97286,Portland,Oregon,TRUE,PacificCoastal,new,36.15,29
+10622,Tracy,Seller,Male,12/3/1992,79923,El Paso,Texas,TRUE,Southwest,new,34.48,26
+10623,Ignace,Tuckwood,Male,5/23/1980,76162,Fort Worth,Texas,TRUE,Southwest,ported,46.39,39
+10624,Cathrin,Glasscock,Female,2/21/1960,92137,San Diego,California,FALSE,PacificCoastal,ported,52.84,59
+10625,Lynne,Mennell,Female,1/14/1956,10249,New York City,New York,TRUE,Mid-atlantic,ported,53.01,63
+10626,Silvia,Brigg,Female,10/20/1978,70183,New Orleans,Louisiana,TRUE,Southern,new,54.55,40
+10627,Lalo,Rubke,Male,1/28/2001,20551,Washington,District of Columbia,TRUE,Southern,new,49.11,18
+10628,Thurston,Ronca,Male,6/1/1975,70124,New Orleans,Louisiana,TRUE,Southern,ported,24.03,44
+10629,Clem,Dilliston,Female,6/11/1987,70810,Baton Rouge,Louisiana,TRUE,Southern,ported,37.05,32
+10630,Georgie,Schuchmacher,Female,5/7/1987,62794,Springfield,Illinois,FALSE,Midwest,ported,21.2,32
+10631,Brian,Lared,Male,9/27/1980,11231,Brooklyn,New York,FALSE,Mid-atlantic,new,60.35,38
+10632,Killy,Fantone,Male,12/30/1977,85099,Phoenix,Arizona,TRUE,Southwest,new,43.31,41
+10633,Gun,Gilburt,Male,2/25/2000,35487,Tuscaloosa,Alabama,FALSE,Southern,new,32.16,19
+10634,Georgi,Kezourec,Male,5/25/1957,214,Portsmouth,New Hampshire,FALSE,New-England,new,27.28,62
+10635,Brit,Dunlop,Female,2/17/1982,33245,Miami,Florida,TRUE,Southern,ported,46.59,37
+10636,Winifield,Toffoletto,Male,3/21/1998,24040,Roanoke,Virginia,TRUE,Southern,new,25.22,21
+10637,Sid,Blaiklock,Male,10/21/1974,37131,Murfreesboro,Tennessee,TRUE,Southern,new,32.93,44
+10638,Robby,Cush,Male,8/8/1966,10292,New York City,New York,TRUE,Mid-atlantic,new,18.03,53
+10639,Tish,Espinheira,Female,10/2/1990,54915,Appleton,Wisconsin,FALSE,Midwest,new,22.16,28
+10640,Kelsey,Vesty,Male,11/26/1966,64101,Kansas City,Missouri,FALSE,Midwest,ported,14.26,52
+10641,Hewe,Woolaston,Male,9/26/1990,78426,Corpus Christi,Texas,TRUE,Southwest,ported,42.09,28
+10642,Trev,Gasparro,Male,7/4/1961,47719,Evansville,Indiana,TRUE,Midwest,ported,17.58,58
+10643,Glenna,Hartless,Female,10/17/1954,14609,Rochester,New York,FALSE,Mid-atlantic,new,11.92,64
+10644,Ola,Hodinton,Female,10/9/1997,87592,Santa Fe,New Mexico,TRUE,Southwest,new,38.61,21
+10645,Lynn,Pontefract,Male,12/16/1977,2104,Boston,Massachusetts,FALSE,New-England,new,3.16,41
+10646,Sonnnie,Ambrose,Female,12/23/1986,97206,Portland,Oregon,FALSE,PacificCoastal,ported,34.47,32
+10647,Ilene,Adamsson,Female,12/25/2004,38126,Memphis,Tennessee,TRUE,Southern,ported,37.54,14
+10648,Nealon,Taffarello,Male,6/2/1989,29615,Greenville,South Carolina,TRUE,Southern,ported,24.44,30
+10649,Jaquelyn,Laws,Female,2/8/1997,79923,El Paso,Texas,TRUE,Southwest,ported,45.38,22
+10650,Sonni,Herrero,Female,9/1/2004,70836,Baton Rouge,Louisiana,TRUE,Southern,ported,60.19,14
+10651,Rogerio,Malacrida,Male,3/12/1980,45403,Dayton,Ohio,TRUE,Midwest,ported,1.37,39
+10652,Eugen,Kidney,Male,6/29/1983,11241,Brooklyn,New York,TRUE,Mid-atlantic,new,55.44,36
+10653,Kearney,Ingerman,Male,8/23/1998,78732,Austin,Texas,TRUE,Southwest,ported,8.53,20
+10654,Bren,Dower,Female,5/29/1987,10131,New York City,New York,TRUE,Mid-atlantic,ported,30.37,32
+10655,Ragnar,Jeannot,Male,7/30/1967,93005,Ventura,California,FALSE,PacificCoastal,new,33.24,52
+10656,Case,Gregory,Male,11/15/1980,33245,Miami,Florida,TRUE,Southern,new,55.36,38
+10657,Marcie,Glazer,Female,3/2/1955,95138,San Jose,California,TRUE,PacificCoastal,new,12.73,64
+10658,Enos,Oxer,Male,5/1/1960,76198,Fort Worth,Texas,TRUE,Southwest,ported,42.3,59
+10659,Sebastiano,Wheatland,Male,3/3/1975,90189,Los Angeles,California,FALSE,PacificCoastal,new,4.35,44
+10660,Augusta,Abramof,Female,2/29/1964,10150,New York City,New York,TRUE,Mid-atlantic,ported,12.49,55
+10661,Chrysler,Draper,Female,9/28/1969,15215,Pittsburgh,Pennsylvania,FALSE,Mid-atlantic,ported,22.83,49
+10662,Mick,Cabrara,Male,7/8/2003,37995,Knoxville,Tennessee,FALSE,Southern,new,40.39,16
+10663,Giustino,Avo,Male,3/31/1980,55188,Saint Paul,Minnesota,TRUE,Midwest,new,60.94,39
+10664,Illa,Bartosek,Female,4/13/1961,33615,Tampa,Florida,TRUE,Southern,ported,43.61,58
+10665,Illa,Semens,Female,1/7/1961,2405,Brockton,Massachusetts,TRUE,New-England,ported,56.35,58
+10666,Jo ann,Meldrum,Female,3/28/1995,62794,Springfield,Illinois,TRUE,Midwest,new,1.26,24
+10667,Humfrid,Layland,Male,9/21/1955,46221,Indianapolis,Indiana,FALSE,Midwest,ported,35.32,63
+10668,Rollins,Simeons,Male,4/18/2003,92505,Riverside,California,TRUE,PacificCoastal,ported,50.18,16
+10669,Valeda,Nairns,Female,8/9/1981,31410,Savannah,Georgia,TRUE,Southern,ported,22.65,37
+10670,Maribeth,Muller,Female,12/13/1976,88530,El Paso,Texas,FALSE,Southwest,ported,21.67,42
+10671,Wendye,Markovic,Female,4/19/1988,85067,Phoenix,Arizona,TRUE,Southwest,ported,18.78,31
+10672,Myrlene,Boarleyson,Female,10/17/1988,98158,Seattle,Washington,FALSE,PacificCoastal,ported,6.87,30
+10673,Isabel,Santry,Female,8/19/2000,48267,Detroit,Michigan,FALSE,Midwest,new,60.06,18
+10674,Bryn,Joselovitch,Female,2/15/1997,97296,Portland,Oregon,TRUE,PacificCoastal,ported,57.62,22
+10675,Alasdair,Godfroy,Male,5/24/1955,2458,Newton,Massachusetts,TRUE,New-England,ported,36.51,64
+10676,Shaylah,Ayscough,Female,3/3/2002,79911,El Paso,Texas,FALSE,Southwest,ported,28.63,17
+10677,Harald,Castaignet,Male,12/29/1973,6673,Bridgeport,Connecticut,TRUE,New-England,new,2.44,45
+10678,Jozef,Dene,Male,12/11/1986,91125,Pasadena,California,FALSE,PacificCoastal,new,9.36,32
+10679,Barri,Sommerville,Male,8/7/1982,40280,Louisville,Kentucky,TRUE,Southern,new,43.12,36
+10680,Robyn,Watkins,Female,10/18/1976,92415,San Bernardino,California,TRUE,PacificCoastal,ported,18.26,42
+10681,Bourke,Lowdyane,Male,3/4/1988,32259,Jacksonville,Florida,FALSE,Southern,ported,43.46,31
+10682,Tybie,Brocks,Female,3/19/1964,7522,Paterson,New Jersey,TRUE,Mid-atlantic,ported,7.65,55
+10683,Doralyn,Lantry,Female,11/16/1968,40546,Lexington,Kentucky,FALSE,Southern,ported,11.69,50
+10684,Eleanor,Singh,Female,5/1/1982,64054,Independence,Missouri,TRUE,Midwest,new,31.47,37
+10685,Lazaro,Erett,Male,8/3/1984,21275,Baltimore,Maryland,TRUE,Southern,ported,44.99,35
+10686,Colline,Gaber,Female,12/6/1988,20392,Washington,District of Columbia,FALSE,Southern,ported,27.98,30
+10687,Holmes,Foulger,Male,1/28/1988,66699,Topeka,Kansas,TRUE,Midwest,new,11.59,31
+10688,Carolyne,Nazaret,Female,7/21/1989,85010,Phoenix,Arizona,FALSE,Southwest,ported,19.18,30
+10689,Barrett,Summerly,Male,7/18/1975,29424,Charleston,South Carolina,TRUE,Southern,new,46.36,44
+10690,Latisha,Izkovitch,Female,9/5/1983,87201,Albuquerque,New Mexico,TRUE,Southwest,ported,27.25,35
+10691,Ronny,Blankett,Male,12/21/2001,87190,Albuquerque,New Mexico,TRUE,Southwest,new,37.4,17
+10692,Deloria,Ferroli,Female,4/9/1983,48092,Warren,Michigan,FALSE,Midwest,ported,52.11,36
+10693,Jarrid,Cosby,Male,2/8/1994,34665,Pinellas Park,Florida,FALSE,Southern,new,60.96,25
+10694,Lorens,Macci,Male,7/17/1966,40524,Lexington,Kentucky,FALSE,Southern,new,16.05,53
+10695,Elyssa,Pigeon,Female,4/9/1966,67210,Wichita,Kansas,FALSE,Midwest,ported,14.24,53
+10696,Suzette,Hancock,Female,7/9/1990,23612,Newport News,Virginia,FALSE,Southern,new,49.35,29
+10697,Gilemette,Tebbutt,Female,8/29/1974,10633,White Plains,New York,TRUE,Mid-atlantic,ported,22.02,44
+10698,Ulric,Rickasse,Male,6/11/2003,49444,Muskegon,Michigan,FALSE,Midwest,ported,11.83,16
+10699,Major,Willows,Male,2/15/1990,25313,Charleston,West Virginia,TRUE,Southern,new,46.56,29
+10700,Kean,Back,Male,5/13/1960,23514,Norfolk,Virginia,FALSE,Southern,new,6.5,59
+10701,Roselin,Akitt,Female,1/27/1963,66105,Kansas City,Kansas,TRUE,Midwest,new,8.61,56
+10702,Kermie,O'Docherty,Male,9/4/1971,15220,Pittsburgh,Pennsylvania,TRUE,Mid-atlantic,ported,16.21,47
+10703,Alric,Gossart,Male,5/17/1969,79968,El Paso,Texas,TRUE,Southwest,ported,43.5,50
+10704,Mandie,Tomlins,Female,3/26/1989,47719,Evansville,Indiana,FALSE,Midwest,ported,27.08,30
+10705,Diego,Tolomei,Male,4/13/1973,85748,Tucson,Arizona,TRUE,Southwest,ported,44,46
+10706,Tobe,Cocke,Male,5/28/1988,84189,Salt Lake City,Utah,FALSE,RockyMountain,new,2.73,31
+10707,Lola,Rheam,Female,8/19/1999,92725,Santa Ana,California,TRUE,PacificCoastal,new,32.11,19
+10708,Coriss,Neary,Female,12/14/1985,34643,Largo,Florida,TRUE,Southern,new,42,33
+10709,Trevar,Gadney,Male,3/24/1979,37931,Knoxville,Tennessee,FALSE,Southern,new,56.23,40
+10710,Vern,Bluschke,Male,6/19/2004,30911,Augusta,Georgia,TRUE,Southern,new,32.97,15
+10711,Tessi,Gookey,Female,11/30/1989,94280,Sacramento,California,TRUE,PacificCoastal,new,2.81,29
+10712,Fedora,Kerfod,Female,3/24/1986,75799,Tyler,Texas,FALSE,Southwest,ported,26.17,33
+10713,Dore,Frankema,Female,4/4/1993,29505,Florence,South Carolina,FALSE,Southern,new,55.4,26
+10714,Donal,Fenning,Male,2/8/1978,63121,Saint Louis,Missouri,TRUE,Midwest,ported,40.78,41
+10715,Rici,Beaves,Female,4/9/1973,12232,Albany,New York,TRUE,Mid-atlantic,new,20.97,46
+10716,Fallon,Castree,Female,3/21/1975,63136,Saint Louis,Missouri,FALSE,Midwest,new,54.79,44
+10717,Catherin,Maas,Female,2/28/1984,46699,South Bend,Indiana,TRUE,Midwest,ported,2.12,35
+10718,Jewelle,Tesoe,Female,1/9/1955,79984,El Paso,Texas,TRUE,Southwest,new,18.46,64
+10719,Arielle,Mycock,Female,6/17/1961,75392,Dallas,Texas,FALSE,Southwest,ported,28.54,58
+10720,Sheff,Spilsburie,Male,12/25/1991,23471,Virginia Beach,Virginia,FALSE,Southern,new,8.32,27
+10721,Ogdon,Slemmonds,Male,9/10/1988,19886,Wilmington,Delaware,FALSE,Southern,ported,37.35,30
+10722,Malissa,Dewi,Female,2/2/1990,94291,Sacramento,California,TRUE,PacificCoastal,new,13.94,29
+10723,Bard,Kilroy,Male,12/6/1978,57193,Sioux Falls,South Dakota,FALSE,Midwest,new,23.36,40
+10724,Lil,Fever,Female,8/10/1972,83722,Boise,Idaho,TRUE,RockyMountain,ported,51.91,46
+10725,Marrilee,Gookey,Female,8/7/1981,21282,Baltimore,Maryland,TRUE,Southern,ported,46.48,37
+10726,Lewiss,Barbosa,Male,3/2/1980,46266,Indianapolis,Indiana,FALSE,Midwest,ported,41.35,39
+10727,Gael,Ball,Female,12/2/1999,99517,Riverside,California,TRUE,PacificCoastal,new,51.08,19
+10728,Vincents,Heatlie,Male,12/11/1961,98498,Lakewood,Washington,TRUE,PacificCoastal,ported,55.89,57
+10729,Vergil,Suttill,Male,12/30/1988,36104,Montgomery,Alabama,FALSE,Southern,ported,39.95,30
+10730,Cory,Yurkov,Female,1/23/1980,39236,Jackson,Mississippi,TRUE,Southern,new,3.9,39
+10731,Kendall,Chetter,Male,9/5/1959,79955,El Paso,Texas,TRUE,Southwest,new,58.1,59
+10732,Romonda,Happel,Female,8/11/2002,84605,Provo,Utah,FALSE,RockyMountain,ported,39.58,16
+10733,Ralf,Gillanders,Male,8/11/1962,20022,Washington,District of Columbia,TRUE,Southern,ported,15.62,56
+10734,Scott,Keyhoe,Male,7/1/1972,80951,Colorado Springs,Colorado,FALSE,RockyMountain,ported,29.74,47
+10735,Dean,Ebbotts,Male,2/23/1971,92717,Irvine,California,TRUE,PacificCoastal,ported,6.39,48
+10736,Connie,Rubinshtein,Male,7/21/1991,55103,Saint Paul,Minnesota,TRUE,Midwest,ported,24.74,28
+10737,Ahmed,Leahey,Male,2/4/1969,17126,Harrisburg,Pennsylvania,TRUE,Mid-atlantic,ported,22.64,50
+10738,Amery,O'Lenechan,Male,1/1/2002,34642,Seminole,Florida,TRUE,Southern,ported,28.3,17
+10739,Brady,Alvar,Male,9/1/1984,28055,Gastonia,North Carolina,FALSE,Southern,new,15.65,34
+10740,Brandy,Browne,Female,9/8/1996,20456,Washington,District of Columbia,FALSE,Southern,new,40.91,22
+10741,Shaylynn,Tison,Female,4/18/1967,38188,Memphis,Tennessee,FALSE,Southern,new,25.4,52
+10742,Ann,Burkman,Female,12/27/2002,95138,San Jose,California,TRUE,PacificCoastal,new,28.29,16
+10743,Ruperto,Mayhead,Male,11/1/1993,94263,Sacramento,California,TRUE,PacificCoastal,ported,16.9,25
+10744,Rahel,Weafer,Female,4/19/1955,23228,Richmond,Virginia,TRUE,Southern,ported,51.23,64
+10745,Alexi,Di Roberto,Female,7/24/2003,33185,Miami,Florida,TRUE,Southern,new,4.64,16
+10746,Elbert,Tripony,Male,11/30/2003,10464,Bronx,New York,TRUE,Mid-atlantic,new,39.04,15
+10747,Fleur,Daine,Female,4/9/1971,94230,Sacramento,California,FALSE,PacificCoastal,new,49.11,48
+10748,Bern,Valentim,Male,12/28/1968,21282,Baltimore,Maryland,TRUE,Southern,new,38.11,50
+10749,Mikkel,Rottenbury,Male,3/23/1984,32610,Gainesville,Florida,TRUE,Southern,ported,14.59,35
+10750,Susie,Hatchette,Female,4/22/1991,80209,Denver,Colorado,TRUE,RockyMountain,ported,22.73,28
+10751,Chery,Gianneschi,Female,11/21/1967,76016,Arlington,Texas,TRUE,Southwest,new,44.13,51
+10752,Matty,Smullin,Male,9/28/2002,68583,Lincoln,Nebraska,TRUE,Midwest,new,15.93,16
+10753,Susannah,McWilliams,Female,5/25/1954,32885,Orlando,Florida,FALSE,Southern,new,7.3,65
+10754,Sylvan,O'Gorman,Male,12/30/1990,79764,Odessa,Texas,TRUE,Southwest,new,11.33,28
+10755,Osgood,Caltun,Male,10/13/1988,20442,Washington,District of Columbia,TRUE,Southern,ported,38.85,30
+10756,Porter,Faber,Male,6/4/1987,29215,Columbia,South Carolina,FALSE,Southern,ported,42.44,32
+10757,Lawrence,Tinto,Male,1/5/1954,89160,Las Vegas,Nevada,FALSE,RockyMountain,ported,2.86,65
+10758,Bernardo,Vannuccinii,Male,2/15/1995,60609,Chicago,Illinois,FALSE,Midwest,new,25.72,24
+10759,Allianora,Bryant,Female,9/27/1979,45264,Cincinnati,Ohio,FALSE,Midwest,ported,19.3,39
+10760,Drugi,Ivery,Male,2/28/1966,92519,Riverside,California,FALSE,PacificCoastal,new,17.31,53
+10761,Silvano,Castellanos,Male,8/28/1963,14269,Buffalo,New York,TRUE,Mid-atlantic,new,42.68,55
+10762,Abby,Colville,Male,3/8/1978,48930,Lansing,Michigan,TRUE,Midwest,new,1.37,41
+10763,Deane,Brychan,Male,1/8/1991,99812,Riverside,California,TRUE,PacificCoastal,new,42.27,28
+10764,Johnathon,Warrell,Male,5/7/1954,93591,Palmdale,California,TRUE,PacificCoastal,new,5.57,65
+10765,Giorgia,Forde,Female,11/6/1998,20535,Washington,District of Columbia,TRUE,Southern,new,58.13,20
+10766,Franzen,Lumb,Male,9/1/1971,40586,Lexington,Kentucky,TRUE,Southern,new,6.11,47
+10767,Roxanne,Trundler,Female,7/23/1973,32520,Pensacola,Florida,TRUE,Southern,ported,44.28,46
+10768,Davin,Keets,Male,7/10/1972,76192,Fort Worth,Texas,TRUE,Southwest,new,26.02,47
+10769,Ode,Braunthal,Male,6/12/1959,76198,Fort Worth,Texas,TRUE,Southwest,new,39.72,60
+10770,Gunilla,Cookley,Female,7/5/1962,25313,Charleston,West Virginia,TRUE,Southern,new,31.47,57
+10771,Gerrilee,Davet,Female,2/11/1993,14215,Buffalo,New York,FALSE,Mid-atlantic,new,55.08,26
+10772,Uri,Ortega,Male,10/1/1970,30911,Augusta,Georgia,TRUE,Southern,new,7.05,48
+10773,Louisette,McLorinan,Female,8/13/1966,67215,Wichita,Kansas,FALSE,Midwest,ported,45.32,52
+10774,Loralee,Kundert,Female,8/4/1985,23293,Richmond,Virginia,TRUE,Southern,new,57.85,33
+10775,Dorie,Hoolaghan,Female,2/5/1994,79176,Amarillo,Texas,TRUE,Southwest,ported,5.37,25
+10776,Kleon,Inchboard,Male,8/15/1971,28055,Gastonia,North Carolina,TRUE,Southern,ported,59.6,47
+10777,Piotr,Juleff,Male,7/19/1998,20078,Washington,District of Columbia,TRUE,Southern,new,27.11,21
+10778,Arleyne,Mudge,Female,2/17/1961,11210,Brooklyn,New York,FALSE,Mid-atlantic,ported,49.28,58
+10779,Godfry,London,Male,10/1/1974,32304,Tallahassee,Florida,TRUE,Southern,ported,11.3,44
+10780,Worth,Gotts,Male,5/30/1981,72204,Little Rock,Arkansas,FALSE,Southern,new,51.59,38
+10781,Luke,Sobey,Male,1/31/2006,32830,Orlando,Florida,TRUE,Southern,ported,2.24,13
+10782,Agnese,Cray,Female,7/29/2004,92878,Corona,California,TRUE,PacificCoastal,ported,15.88,15
+10783,Galvan,Larver,Male,12/12/1988,20508,Washington,District of Columbia,TRUE,Southern,ported,2.75,30
+10784,Cacilia,Rainger,Female,10/8/1978,36119,Montgomery,Alabama,TRUE,Southern,new,13,40
+10785,Edwin,Coburn,Male,11/25/1991,85053,Phoenix,Arizona,FALSE,Southwest,new,45.08,27
+10786,Lucita,Ziehms,Female,9/20/1973,32808,Orlando,Florida,FALSE,Southern,ported,56.28,45
+10787,Danika,Linggood,Female,4/9/1979,77260,Houston,Texas,TRUE,Southwest,new,33.85,40
+10788,Mandi,Kunc,Female,6/6/2005,49018,Battle Creek,Michigan,TRUE,Midwest,ported,56.41,14
+10789,Car,Fardo,Male,8/4/1975,77276,Houston,Texas,FALSE,Southwest,new,10.89,44
+10790,Kiley,McPeake,Female,1/25/1981,98442,Tacoma,Washington,TRUE,PacificCoastal,new,17.79,38
+10791,Demetris,Clements,Male,12/31/1957,92519,Riverside,California,TRUE,PacificCoastal,new,25.71,61
+10792,Cad,Dummer,Male,6/15/1984,85045,Phoenix,Arizona,TRUE,Southwest,ported,18.19,35
+10793,Stanislaus,Dabs,Male,5/14/2004,73179,Oklahoma City,Oklahoma,TRUE,Southwest,ported,37.46,15
+10794,Zared,Spoward,Male,9/20/1990,79705,Midland,Texas,TRUE,Southwest,new,49.88,28
+10795,Phineas,Le Page,Male,7/27/1977,89115,Las Vegas,Nevada,TRUE,RockyMountain,new,9.13,42
+10796,Rob,Hurler,Male,7/18/2004,88589,El Paso,Texas,TRUE,Southwest,new,15.51,15
+10797,Aymer,Porteous,Male,6/9/1965,31422,Savannah,Georgia,TRUE,Southern,ported,21.45,54
+10798,Kimble,Bruty,Male,3/23/1954,90305,Inglewood,California,FALSE,PacificCoastal,ported,55.82,65
+10799,Jaymee,Jackett,Female,1/7/1959,78240,San Antonio,Texas,TRUE,Southwest,new,47.58,60
+10800,Dewey,McMorland,Male,9/19/1982,74103,Tulsa,Oklahoma,TRUE,Southwest,ported,56.11,36
+10801,Jere,Ashwell,Female,8/25/1982,33336,Fort Lauderdale,Florida,FALSE,Southern,new,3.22,36
+10802,Cooper,McCurley,Male,1/29/1996,94126,San Francisco,California,TRUE,PacificCoastal,new,5.99,23
+10803,Wallis,Bradtke,Male,4/16/1976,84189,Salt Lake City,Utah,TRUE,RockyMountain,new,39.69,43
+10804,Lexine,McGaw,Female,3/22/1956,79491,Lubbock,Texas,TRUE,Southwest,new,46.83,63
+10805,Malorie,Vasyatkin,Female,8/20/1969,49505,Grand Rapids,Michigan,TRUE,Midwest,ported,11.74,49
+10806,Valerye,Eskriett,Female,10/27/1998,18018,Bethlehem,Pennsylvania,TRUE,Mid-atlantic,ported,46.82,20
+10807,Fanya,Staples,Female,5/6/1976,78044,Laredo,Texas,TRUE,Southwest,new,9.82,43
+10808,Wallie,Spradbery,Male,9/15/2005,79905,El Paso,Texas,FALSE,Southwest,ported,40.06,13
+10809,Bab,Roiz,Female,3/23/2000,52410,Cedar Rapids,Iowa,TRUE,Midwest,new,54.05,19
+10810,Pearce,Feehily,Male,4/5/1966,83722,Boise,Idaho,TRUE,RockyMountain,new,48.8,53
+10811,Brody,Chatelet,Male,5/9/1963,23612,Newport News,Virginia,TRUE,Southern,ported,42.82,56
+10812,Mirilla,Gilhoolie,Female,8/24/2001,40745,London,Kentucky,TRUE,Southern,ported,29.61,17
+10813,Frannie,Crenage,Male,9/15/1968,2472,Watertown,Massachusetts,TRUE,New-England,ported,48.86,50
+10814,Effie,Colston,Female,6/13/2002,95838,Sacramento,California,FALSE,PacificCoastal,ported,38.65,17
+10815,Donny,Jost,Female,1/17/1977,68531,Lincoln,Nebraska,FALSE,Midwest,new,20.26,42
+10816,Fabio,Rousby,Male,3/5/1994,60567,Naperville,Illinois,TRUE,Midwest,new,54.13,25
+10817,Claudina,Skade,Female,3/4/1965,88584,El Paso,Texas,FALSE,Southwest,new,8.81,54
+10818,Ethyl,Simoneschi,Female,9/24/1983,87190,Albuquerque,New Mexico,TRUE,Southwest,ported,33.32,35
+10819,Emerson,Skechley,Male,3/30/1964,85072,Phoenix,Arizona,TRUE,Southwest,new,15.31,55
+10820,Hilary,Massei,Male,6/14/1998,87121,Albuquerque,New Mexico,TRUE,Southwest,new,45.58,21
+10821,Skell,Blaycock,Male,12/7/1966,44118,Cleveland,Ohio,TRUE,Midwest,ported,41.48,52
+10822,Von,Steels,Male,9/12/2000,10292,New York City,New York,TRUE,Mid-atlantic,ported,55.79,18
+10823,Lottie,Burn,Female,3/8/1980,18105,Allentown,Pennsylvania,FALSE,Mid-atlantic,ported,60.39,39
+10824,Padriac,Domingues,Male,3/21/2000,98516,Olympia,Washington,FALSE,PacificCoastal,ported,24.32,19
+10825,Mureil,Cranstoun,Female,12/15/1964,33330,Fort Lauderdale,Florida,TRUE,Southern,ported,56.08,54
+10826,Clara,Hadkins,Female,8/4/1967,85748,Tucson,Arizona,FALSE,Southwest,ported,36.33,52
+10827,Alvan,Pencot,Male,8/3/1980,20051,Washington,District of Columbia,TRUE,Southern,ported,53.62,39
+10828,Ange,Duchart,Female,9/16/1974,23464,Virginia Beach,Virginia,TRUE,Southern,ported,28.95,44
+10829,Cesare,Cowling,Male,6/30/1954,22234,Arlington,Virginia,FALSE,Southern,ported,32.06,65
+10830,Luca,Addenbrooke,Male,4/27/1962,24515,Lynchburg,Virginia,FALSE,Southern,ported,18.26,57
+10831,Damaris,Le Strange,Female,9/17/1982,19120,Philadelphia,Pennsylvania,TRUE,Mid-atlantic,ported,26.31,36
+10832,Hedda,Kraut,Female,10/18/1956,94147,San Francisco,California,TRUE,PacificCoastal,ported,46.51,62
+10833,Menard,Alderton,Male,3/21/2005,84199,Salt Lake City,Utah,TRUE,RockyMountain,new,55.38,14
+10834,Sally,Wolfarth,Female,6/20/2004,20425,Washington,District of Columbia,TRUE,Southern,ported,7.93,15
+10835,Sanford,Sugge,Male,2/26/1982,30368,Atlanta,Georgia,TRUE,Southern,new,51.28,37
+10836,Lorine,Dable,Female,11/10/1979,34479,Ocala,Florida,TRUE,Southern,new,10.86,39
+10837,Hunt,Siddell,Male,9/20/1972,31410,Savannah,Georgia,FALSE,Southern,new,16.99,46
+10838,Barbara,Bamling,Female,1/7/2000,20062,Washington,District of Columbia,FALSE,Southern,ported,23.51,19
+10839,Alla,Gammett,Female,8/25/1954,23220,Richmond,Virginia,TRUE,Southern,new,26.88,64
+10840,Gordon,Marquez,Male,5/4/1976,90847,Long Beach,California,TRUE,PacificCoastal,new,19.85,43
+10841,Candi,McGirl,Female,10/8/1996,11388,Flushing,New York,TRUE,Mid-atlantic,ported,2.03,22
+10842,Ambrosio,Ferenczy,Male,9/30/1985,45254,Cincinnati,Ohio,FALSE,Midwest,new,41.71,33
+10843,Dore,Conybear,Male,10/2/1955,70836,Baton Rouge,Louisiana,FALSE,Southern,new,11.17,63
+10844,Eldin,Aherne,Male,4/2/1990,12227,Albany,New York,TRUE,Mid-atlantic,ported,52.65,29
+10845,Dulcine,Barrell,Female,8/23/1970,14683,Rochester,New York,FALSE,Mid-atlantic,new,3.79,48
+10846,Kristofer,Brumfield,Male,2/23/1998,40205,Louisville,Kentucky,FALSE,Southern,new,11.35,21
+10847,Gaelan,Aguirrezabal,Male,4/28/1998,10120,New York City,New York,TRUE,Mid-atlantic,ported,53.67,21
+10848,Logan,Sothcott,Male,5/29/1955,30316,Atlanta,Georgia,TRUE,Southern,new,21.07,64
+10849,Friederike,Rego,Female,2/19/1982,55590,Monticello,Minnesota,TRUE,Midwest,ported,7.37,37
+10850,Dusty,O'Fearguise,Female,12/6/1958,44177,Cleveland,Ohio,FALSE,Midwest,ported,19.67,60
+10851,Noll,Snazle,Male,10/28/1959,2114,Boston,Massachusetts,TRUE,New-England,new,58.16,59
+10852,Missy,Cormack,Female,7/15/1955,22096,Reston,Virginia,FALSE,Southern,new,12.66,64
+10853,Winnie,Spatarul,Female,12/7/1978,70805,Baton Rouge,Louisiana,TRUE,Southern,ported,59.9,40
+10854,Bidget,Cran,Female,12/29/1962,92725,Santa Ana,California,FALSE,PacificCoastal,new,26.17,56
+10855,Raffaello,Bloxland,Male,8/7/1994,29424,Charleston,South Carolina,TRUE,Southern,ported,23.22,24
+10856,Lise,Bolderoe,Female,12/17/1958,33064,Pompano Beach,Florida,TRUE,Southern,new,9.61,60
+10857,Shepard,Mapledorum,Male,8/10/2004,77250,Houston,Texas,TRUE,Southwest,ported,58.78,14
+10858,Cher,Yockley,Female,12/4/1979,37919,Knoxville,Tennessee,TRUE,Southern,ported,56.21,39
+10859,Brion,Ligertwood,Male,7/21/1960,88574,El Paso,Texas,TRUE,Southwest,new,24.61,59
+10860,Judah,Huggill,Male,9/14/2002,66611,Topeka,Kansas,FALSE,Midwest,ported,8.13,16
+10861,Analise,Flye,Female,3/4/1971,10034,New York City,New York,TRUE,Mid-atlantic,new,9.63,48
+10862,Tanner,Upfold,Male,2/14/2006,79934,El Paso,Texas,FALSE,Southwest,ported,54.61,13
+10863,Bernhard,Snepp,Male,7/17/1954,48267,Detroit,Michigan,TRUE,Midwest,new,20.44,65
+10864,Ulric,Goburn,Male,7/8/1967,22096,Reston,Virginia,TRUE,Southern,new,14,52
+10865,Joelie,Malthus,Female,9/3/1982,91505,Burbank,California,TRUE,PacificCoastal,new,49.94,36
+10866,Frank,Allderidge,Male,10/11/1985,20215,Washington,District of Columbia,TRUE,Southern,new,21.91,33
+10867,Jennee,Bohling,Female,2/1/1994,33023,Hollywood,Florida,TRUE,Southern,ported,60.46,25
+10868,Gun,De Mitri,Male,5/15/1996,14220,Buffalo,New York,TRUE,Mid-atlantic,new,60.66,23
+10869,Fransisco,Crippes,Male,8/13/1963,40505,Lexington,Kentucky,FALSE,Southern,ported,36.62,55
+10870,Adi,Basnall,Female,12/30/1994,71115,Shreveport,Louisiana,TRUE,Southern,new,15.74,24
+10871,Maxie,Gumn,Male,7/17/2000,77250,Houston,Texas,TRUE,Southwest,ported,44.94,19
+10872,Jessie,Pheby,Female,8/31/1994,43231,Columbus,Ohio,FALSE,Midwest,new,16.39,24
+10873,Ibbie,Delgaty,Female,7/9/1973,70129,New Orleans,Louisiana,TRUE,Southern,ported,48.97,46
+10874,Engelbert,Abreheart,Male,9/10/1988,46295,Indianapolis,Indiana,TRUE,Midwest,ported,47.81,30
+10875,Bron,Bower,Male,3/15/1972,6912,Stamford,Connecticut,FALSE,New-England,new,35.46,47
+10876,Angelia,Forbear,Female,11/3/1996,93150,Santa Barbara,California,TRUE,PacificCoastal,new,59.9,22
+10877,Alfi,Aguirrezabala,Female,10/8/1971,70160,New Orleans,Louisiana,TRUE,Southern,new,45.46,47
+10878,Annie,Wagerfield,Female,4/1/1971,76105,Fort Worth,Texas,TRUE,Southwest,ported,41.63,48
+10879,Vonny,Classen,Female,8/30/1979,98115,Seattle,Washington,TRUE,PacificCoastal,ported,34.52,39
+10880,Viviene,Ahearne,Female,10/7/1958,20404,Washington,District of Columbia,TRUE,Southern,new,15.09,60
+10881,Oralee,Bolesworth,Female,2/16/1978,33605,Tampa,Florida,TRUE,Southern,ported,55.45,41
+10882,Pat,Steele,Male,9/10/1982,60697,Chicago,Illinois,FALSE,Midwest,new,53.29,36
+10883,Jsandye,Bastard,Female,9/11/1960,94405,San Mateo,California,TRUE,PacificCoastal,new,18.65,58
+10884,Farlee,Cerie,Male,2/20/1970,36622,Mobile,Alabama,TRUE,Southern,ported,59.2,49
+10885,Ted,Kubu,Female,4/22/1963,93111,Santa Barbara,California,TRUE,PacificCoastal,ported,28.69,56
+10886,Homere,Restorick,Male,11/12/1973,79916,El Paso,Texas,TRUE,Southwest,ported,42.65,45
+10887,Eddie,Pughe,Female,8/31/1977,79999,El Paso,Texas,FALSE,Southwest,ported,39.77,41
+10888,Xymenes,Conroy,Male,10/6/1972,90035,Los Angeles,California,TRUE,PacificCoastal,ported,1.39,46
+10889,Angelia,Oddboy,Female,10/8/1960,63104,Saint Louis,Missouri,TRUE,Midwest,new,50.48,58
+10890,Griffin,Gonnard,Male,9/2/1987,96850,Bethlehem,Pennsylvania,TRUE,Mid-atlantic,new,11.77,31
+10891,Hilary,Titcom,Male,7/30/1992,60614,Chicago,Illinois,TRUE,Midwest,ported,36.99,27
+10892,Bea,Braxton,Female,9/17/1988,53220,Milwaukee,Wisconsin,FALSE,Midwest,ported,12.42,30
+10893,Liam,Christal,Male,7/24/1975,62756,Springfield,Illinois,TRUE,Midwest,new,59.22,44
+10894,Rosabelle,Aimeric,Female,2/28/1985,33261,Miami,Florida,TRUE,Southern,new,60.55,34
+10895,Anet,Basley,Female,7/20/1976,85284,Tempe,Arizona,FALSE,Southwest,new,15.38,43
+10896,Marylynne,Bollard,Female,1/7/1993,33141,Miami Beach,Florida,TRUE,Southern,ported,42.85,26
+10897,Guido,Bulley,Male,7/4/1956,64199,Kansas City,Missouri,TRUE,Midwest,new,24.15,63
+10898,Daveen,Alderson,Female,2/28/1976,89130,Las Vegas,Nevada,FALSE,RockyMountain,ported,7.24,43
+10899,Karlie,Sandell,Female,9/12/1964,39534,Biloxi,Mississippi,TRUE,Southern,ported,51.29,54
+10900,Kayla,Thoresbie,Female,10/11/1984,32627,Gainesville,Florida,TRUE,Southern,new,4.22,34
+10901,Barde,Grimmolby,Male,8/19/1959,98506,Olympia,Washington,TRUE,PacificCoastal,ported,13.52,59
+10902,Linoel,Plummer,Male,7/10/1975,31190,Atlanta,Georgia,TRUE,Southern,new,20.12,44
+10903,Culley,Deeson,Male,4/11/1999,88589,El Paso,Texas,TRUE,Southwest,new,54.92,20
+10904,Spencer,Grundey,Male,9/22/1996,66105,Kansas City,Kansas,TRUE,Midwest,new,58.51,22
+10905,Krystle,Almack,Female,6/28/2006,30306,Atlanta,Georgia,FALSE,Southern,ported,41.07,13
+10906,Melvyn,Rumbelow,Male,5/30/1970,87115,Albuquerque,New Mexico,FALSE,Southwest,new,60.43,49
+10907,Eleni,Barlthrop,Female,6/10/1982,34981,Fort Pierce,Florida,FALSE,Southern,ported,26.19,37
+10908,Joellen,Durrant,Female,3/29/1970,55166,Saint Paul,Minnesota,FALSE,Midwest,ported,28.07,49
+10909,Yul,Goreisr,Male,11/22/1998,99220,Spokane,Washington,FALSE,PacificCoastal,ported,56.16,20
+10910,Davin,Brien,Male,4/24/1980,76016,Arlington,Texas,TRUE,Southwest,ported,53.17,39
+10911,Carmella,Vernay,Female,3/30/1971,20503,Washington,District of Columbia,TRUE,Southern,new,1.75,48
+10912,Hedvige,Glasbey,Female,7/7/1990,33315,Fort Lauderdale,Florida,TRUE,Southern,ported,37.05,29
+10913,Abraham,Hirtz,Male,9/18/1955,76796,Waco,Texas,TRUE,Southwest,ported,39.84,63
+10914,Mireielle,Cuddehay,Female,1/8/1969,38104,Memphis,Tennessee,TRUE,Southern,new,17.78,50
+10915,Arabela,Hames,Female,1/9/1999,79188,Amarillo,Texas,TRUE,Southwest,new,3.72,20
+10916,Curcio,Enrico,Male,5/1/1962,7522,Paterson,New Jersey,FALSE,Mid-atlantic,new,60.11,57
+10917,Hephzibah,Tapenden,Female,5/25/1961,77090,Houston,Texas,TRUE,Southwest,new,52.52,58
+10918,Callie,Brazer,Female,6/16/1963,28242,Charlotte,North Carolina,TRUE,Southern,ported,9.47,56
+10919,Noach,Benwell,Male,9/3/1976,91186,Pasadena,California,TRUE,PacificCoastal,new,47.96,42
+10920,Maximilien,Steagall,Male,1/7/1975,73119,Oklahoma City,Oklahoma,TRUE,Southwest,ported,34.22,44
+10921,Purcell,Mallord,Male,4/15/1983,25721,Huntington,West Virginia,TRUE,Southern,ported,46.8,36
+10922,Clotilda,Tilley,Female,11/22/1964,97075,Beaverton,Oregon,FALSE,PacificCoastal,new,16.51,54
+10923,Erin,Stoodale,Female,1/8/1990,95823,Sacramento,California,TRUE,PacificCoastal,ported,7.64,29
+10924,Roseanna,Barkas,Female,6/8/1990,47719,Evansville,Indiana,TRUE,Midwest,ported,4.83,29
+10925,Verge,Pietrusiak,Male,4/30/1955,43204,Columbus,Ohio,FALSE,Midwest,ported,39.15,64
+10926,Portia,Hebborn,Female,8/7/2002,85271,Scottsdale,Arizona,TRUE,Southwest,ported,31.26,16
+10927,Edouard,Fernely,Male,10/22/1995,33018,Hialeah,Florida,FALSE,Southern,ported,44.9,23
+10928,Emlen,Truluck,Male,1/9/1955,15266,Pittsburgh,Pennsylvania,TRUE,Mid-atlantic,ported,36.39,64
+10929,Cybill,Snowling,Female,8/10/1974,33686,Tampa,Florida,FALSE,Southern,ported,1.01,44
+10930,Millie,Dougary,Female,1/14/1974,87180,Albuquerque,New Mexico,FALSE,Southwest,ported,32.23,45
+10931,Valaree,MacAlroy,Female,10/7/1985,43605,Toledo,Ohio,TRUE,Midwest,new,52.61,33
+10932,Angelika,Gronow,Female,3/8/1955,79405,Lubbock,Texas,FALSE,Southwest,ported,25.44,64
+10933,Clare,Orta,Female,10/16/1980,78245,San Antonio,Texas,TRUE,Southwest,ported,8.94,38
+10934,Hyacinthie,Baxandall,Female,1/6/1975,94207,Sacramento,California,TRUE,PacificCoastal,ported,43.5,44
+10935,Bartlett,Waterhous,Male,1/28/1976,31136,Atlanta,Georgia,TRUE,Southern,ported,22.65,43
+10936,Elyn,Burn,Female,9/4/1985,84125,Salt Lake City,Utah,TRUE,RockyMountain,new,36.69,33
+10937,Emmy,Hanse,Female,7/21/1957,77505,Pasadena,Texas,FALSE,Southwest,new,35.16,62
+10938,Sigismond,Durbyn,Male,2/15/1956,78230,San Antonio,Texas,FALSE,Southwest,new,54.61,63
+10939,Saleem,Flott,Male,3/14/1988,60669,Chicago,Illinois,TRUE,Midwest,new,59.74,31
+10940,Neron,Rothwell,Male,6/18/1959,44511,Youngstown,Ohio,FALSE,Midwest,new,25.12,60
+10941,Mersey,Thonason,Female,3/27/1987,90030,Los Angeles,California,FALSE,PacificCoastal,ported,59.68,32
+10942,Vanny,Silmon,Female,11/19/1971,6183,Hartford,Connecticut,TRUE,New-England,new,19.91,47
+10943,Jude,Minithorpe,Male,10/21/1972,76115,Fort Worth,Texas,TRUE,Southwest,ported,9.54,46
+10944,Anders,Shevelin,Male,1/26/1967,30130,Cumming,Georgia,FALSE,Southern,new,56.65,52
+10945,Egan,Cicutto,Male,2/9/1957,55103,Saint Paul,Minnesota,TRUE,Midwest,new,49.49,62
+10946,Adi,McCoish,Female,6/23/1970,93407,San Luis Obispo,California,FALSE,PacificCoastal,new,38.57,49
+10947,Andrea,Hearthfield,Female,3/23/1989,48609,Saginaw,Michigan,FALSE,Midwest,new,13.83,30
+10948,Hermia,Giacobbo,Female,7/18/1993,48604,Saginaw,Michigan,TRUE,Midwest,ported,17.07,26
+10949,Bart,Braniff,Male,9/20/1982,38136,Memphis,Tennessee,TRUE,Southern,new,57.28,36
+10950,Yehudit,Weagener,Male,4/21/1995,80249,Denver,Colorado,TRUE,RockyMountain,new,43.75,24
+10951,Modestine,Pleasaunce,Female,3/2/1978,94164,San Francisco,California,FALSE,PacificCoastal,ported,25.45,41
+10952,Walker,Shearwood,Male,11/29/1995,33462,Lake Worth,Florida,FALSE,Southern,ported,49.21,23
+10953,Carmelina,Riveles,Female,7/10/1967,44511,Youngstown,Ohio,TRUE,Midwest,new,28.06,52
+10954,Der,De Carolis,Male,6/17/1999,33069,Pompano Beach,Florida,TRUE,Southern,ported,53.3,20
+10955,Doria,Pettican,Female,10/1/1965,92662,Newport Beach,California,TRUE,PacificCoastal,ported,37.73,53
+10956,Mel,Gales,Male,6/20/1974,64101,Kansas City,Missouri,TRUE,Midwest,ported,60.53,45
+10957,Karry,Breach,Female,8/28/1955,93726,Fresno,California,FALSE,PacificCoastal,new,17.61,63
+10958,Allistir,McGuirk,Male,7/24/1961,43284,Columbus,Ohio,FALSE,Midwest,new,57.85,58
+10959,Helene,Kyme,Female,10/22/1966,55407,Minneapolis,Minnesota,TRUE,Midwest,new,58.87,52
+10960,Stanislaw,Slyvester,Male,4/25/1974,33064,Pompano Beach,Florida,TRUE,Southern,new,43.03,45
+10961,Happy,Watmore,Female,11/26/1980,6825,Fairfield,Connecticut,FALSE,New-England,ported,7.02,38
+10962,Basile,Myles,Male,8/3/1956,15215,Pittsburgh,Pennsylvania,FALSE,Mid-atlantic,new,1.23,63
+10963,Nessa,Alvin,Female,7/7/1981,55146,Saint Paul,Minnesota,FALSE,Midwest,ported,25.69,38
+10964,Murdoch,Dumbrill,Male,3/23/2005,25356,Charleston,West Virginia,FALSE,Southern,ported,52.38,14
+10965,Christoffer,Dummer,Male,3/16/1983,14276,Buffalo,New York,FALSE,Mid-atlantic,ported,35.28,36
+10966,Thayne,Crothers,Male,8/23/1996,22212,Arlington,Virginia,FALSE,Southern,new,51.48,22
+10967,Gunner,Paviour,Male,11/16/1964,74170,Tulsa,Oklahoma,FALSE,Southwest,ported,49.24,54
+10968,Sherie,Conaghy,Female,11/26/1985,20404,Washington,District of Columbia,FALSE,Southern,new,58.27,33
+10969,Earvin,Raper,Male,10/15/1979,33694,Tampa,Florida,TRUE,Southern,ported,60.2,39
+10970,Jerrome,Winter,Male,2/22/1999,22244,Arlington,Virginia,TRUE,Southern,ported,13.14,20
+10971,Olly,Yitzhok,Male,12/11/1964,74149,Tulsa,Oklahoma,FALSE,Southwest,new,26.07,54
+10972,Evangelia,Kettlestringe,Female,12/13/1984,49505,Grand Rapids,Michigan,TRUE,Midwest,new,15.19,34
+10973,Kara-lynn,Woollons,Female,5/17/1967,38181,Memphis,Tennessee,FALSE,Southern,ported,10.48,52
+10974,Dyanne,Kleinlerer,Female,10/25/1967,55805,Duluth,Minnesota,TRUE,Midwest,ported,16.58,51
+10975,Donnajean,Yakobovitz,Female,9/20/1974,33405,West Palm Beach,Florida,FALSE,Southern,new,34.7,44
+10976,Nappie,Shutle,Male,10/15/1995,20041,Washington,District of Columbia,FALSE,Southern,ported,46.76,23
+10977,Jacquie,Crankshaw,Female,7/10/2005,55172,Saint Paul,Minnesota,TRUE,Midwest,new,43.6,14
+10978,Licha,McAne,Female,9/21/1986,50347,Des Moines,Iowa,TRUE,Midwest,ported,57.7,32
+10979,Bette-ann,Kirkhouse,Female,5/23/1972,64130,Kansas City,Missouri,TRUE,Midwest,ported,5.09,47
+10980,Sydney,Poundford,Female,2/20/1960,94263,Sacramento,California,TRUE,PacificCoastal,new,12.57,59
+10981,Salvador,Haburne,Male,10/13/1997,46247,Indianapolis,Indiana,FALSE,Midwest,ported,28.37,21
+10982,Fabiano,Sherborne,Male,1/12/2005,10165,New York City,New York,FALSE,Mid-atlantic,new,44.89,14
+10983,Dore,Colly,Female,5/9/1972,80150,Englewood,Colorado,TRUE,RockyMountain,ported,24.53,47
+10984,Steffane,Tire,Female,4/19/1986,85732,Tucson,Arizona,FALSE,Southwest,new,22.62,33
+10985,Theda,Ferrieri,Female,6/7/1970,90094,Los Angeles,California,TRUE,PacificCoastal,new,7.99,49
+10986,Nicol,Penton,Male,5/4/1954,93005,Ventura,California,TRUE,PacificCoastal,ported,46.66,65
+10987,Corine,Janes,Female,9/10/1973,75387,Dallas,Texas,FALSE,Southwest,ported,48.57,45
+10988,Craggy,Pershouse,Male,12/5/2005,55423,Minneapolis,Minnesota,TRUE,Midwest,new,20.2,13
+10989,Hannie,Mantrup,Female,9/28/1964,87105,Albuquerque,New Mexico,TRUE,Southwest,new,3.99,54
+10990,Neala,Benitti,Female,10/21/1984,15274,Pittsburgh,Pennsylvania,TRUE,Mid-atlantic,ported,34.85,34
+10991,Christiana,Medling,Female,12/23/1989,93150,Santa Barbara,California,TRUE,PacificCoastal,ported,47.57,29
+10992,Whit,Saltmarsh,Male,6/16/1956,95133,San Jose,California,TRUE,PacificCoastal,new,38.02,63
+10993,Fernando,Digg,Male,12/10/1971,13217,Syracuse,New York,FALSE,Mid-atlantic,ported,14.2,47
+10994,Morgen,Denny,Female,7/3/1982,74108,Tulsa,Oklahoma,FALSE,Southwest,new,23.51,37
+10995,Caspar,Derdes,Male,6/4/2004,95108,San Jose,California,TRUE,PacificCoastal,new,36.93,15
+10996,Nikaniki,Oxx,Female,8/28/1971,50706,Waterloo,Iowa,FALSE,Midwest,new,28.26,47
+10997,Reilly,Nansom,Male,2/4/1974,92867,Orange,California,TRUE,PacificCoastal,ported,56.02,45
+10998,Forrest,Glen,Male,1/13/2000,75074,Plano,Texas,FALSE,Southwest,new,46.4,19
+10999,Tobe,Springall,Male,11/13/1974,79105,Amarillo,Texas,TRUE,Southwest,new,60.66,44
+11000,Ive,Snoddy,Male,11/29/2003,23459,Virginia Beach,Virginia,FALSE,Southern,ported,55.03,15
