@@ -34,6 +34,12 @@ Implemented unsupervised machine learning model (Kmeans Clustering) to create cu
 
 Classified some new customers into different personas using supervised machine learning model (Naive Bayes) 
 
+Installation:
+ • pip install pandas
+ • pip install numpy
+ • pip install matplotlib
+ • pip install sklearn
+
 ### Growth Rate:
 Created a dashboard for analyzing the growth rate
 
@@ -41,6 +47,7 @@ Created a dashboard for analyzing the growth rate
 Created a dashboard for analyzing KPIs
 
 •	Customer acquisition cost
+
 •	Net Profit
 
 
