@@ -18,6 +18,10 @@ Plan to implement the architecture
 
 https://codelabs-preview.appspot.com/?file_id=1X7eEYQ8iEXc9BLwF0sVZX9aAeUmRZe37h7bF6uA2lTA#0
 
+### Project Proposal (Published on 28 July)
+
+https://codelabs-preview.appspot.com/?file_id=1frw_qPiqHqEprmvDfBuHF96ILJqS_bsdN4AwpU3QA4I#0
+
 ### Customer Personas:
 •	Implemented unsupervised machine learning model (K-means Clustering) to create customer 8 personas as listed below
 
