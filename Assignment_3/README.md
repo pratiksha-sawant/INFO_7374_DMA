@@ -19,6 +19,7 @@
 •	RFM Analysis implemented to identify the segments based on customer behavior by generating the rfm score of customers by calculating recency, frequency and momentary value 
 
 •	Customer segments identified are listed below
+
     	Best Customer
     	Big Spenders
     	Loyal Customers
