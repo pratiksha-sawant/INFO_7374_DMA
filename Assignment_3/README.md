@@ -38,6 +38,7 @@ INVOKE URL- https://hkc4x5lbmg.execute-api.us-east-1.amazonaws.com/churn-pred
 ### ML as a service
 
 Customer Lifetime Value predicted using AWS XGBoost algorithm on AWS Sagemaker which can be invoked by using REST APIs
+
 ENDPOINT URL-
 https://runtime.sagemaker.us-east-1.amazonaws.com/endpoints/linear-learner-2019-08-03-02-30-27-302/invocations
 
