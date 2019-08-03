@@ -34,6 +34,7 @@ INVOKE URL- https://hkc4x5lbmg.execute-api.us-east-1.amazonaws.com/churn-pred
 •	Colab Links
 
     https://colab.research.google.com/drive/1PQencEygm6MnsMJBIsfR9Q4XkQ0sEwky
+    
 
 ### ML as a service
 
@@ -43,6 +44,7 @@ ENDPOINT URL-
 https://runtime.sagemaker.us-east-1.amazonaws.com/endpoints/linear-learner-2019-08-03-02-30-27-302/invocations
 
 API INVOKE URL-
+https://jy0d7w6w48.execute-api.us-east-1.amazonaws.com/cltv
 
 ----------------------------------------------------------------------------------------
 ## Use Case 3 : Customer Segmentation
