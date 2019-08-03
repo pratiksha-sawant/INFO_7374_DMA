@@ -21,6 +21,8 @@ Customer attrition predicted using AWS XGBoost algorithm on AWS Sagemaker which 
 
 https://runtime.sagemaker.us-east-1.amazonaws.com/endpoints/xgboost-2019-08-02-23-47-26-992/invocations
 
+INVOKE URL- https://hkc4x5lbmg.execute-api.us-east-1.amazonaws.com/churn-pred
+
 ---------------------------------------------------------------------------------------------------------------------------------
 ## Use Case 2 : Customer Lifetime Value Prediction
 ### Machine Learning Models
