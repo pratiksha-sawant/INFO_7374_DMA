@@ -8,6 +8,7 @@ https://codelabs-preview.appspot.com/?file_id=1_69ZjNUYdj2l1cHXMF6mnoencFInq1CGC
 ### Machine Learning Models
 
 •	Models like Logistic Regression, XgBoost and ensembling implemented to classify the whether the customer would remain active or inactive
+
 •	Churn is indicated as boolean value True or False
 
 ### ML as a service
@@ -17,6 +18,8 @@ Customer attrition predicted using AWS XGBoost algorithm on AWS Sagemaker which 
 ---------------------------------------------------------------------------------------------------------------------------------
 ## Use Case 2 : Customer Lifetime Value Prediction
 ### Machine Learning Models
+
+•	Models like Linear Regression and Randomforest Regressor implemented to predict the customer lifetime value
 
 ### ML as a service
 
