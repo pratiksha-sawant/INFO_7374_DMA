@@ -19,6 +19,8 @@ https://codelabs-preview.appspot.com/?file_id=1_69ZjNUYdj2l1cHXMF6mnoencFInq1CGC
 
 Customer attrition predicted using AWS XGBoost algorithm on AWS Sagemaker which can be invoked by using REST APIs
 
+https://runtime.sagemaker.us-east-1.amazonaws.com/endpoints/xgboost-2019-08-02-23-47-26-992/invocations
+
 ---------------------------------------------------------------------------------------------------------------------------------
 ## Use Case 2 : Customer Lifetime Value Prediction
 ### Machine Learning Models
@@ -32,6 +34,8 @@ Customer attrition predicted using AWS XGBoost algorithm on AWS Sagemaker which 
 ### ML as a service
 
 Customer Lifetime Value predicted using AWS XGBoost algorithm on AWS Sagemaker which can be invoked by using REST APIs
+
+https://runtime.sagemaker.us-east-1.amazonaws.com/endpoints/linear-learner-2019-08-03-02-30-27-302/invocations
 
 ----------------------------------------------------------------------------------------
 ## Use Case 3 : Customer Segmentation
@@ -60,6 +64,8 @@ Customer Lifetime Value predicted using AWS XGBoost algorithm on AWS Sagemaker w
 ### ML as a service
 
 Customer segmentation performed using AWS algorithm on AWS Sagemaker which can be invoked by using REST APIs
+
+arn:aws:sagemaker:us-east-1:673997752278:endpoint-config/customer-segmentation11
 
 ## Model Implementation
 
