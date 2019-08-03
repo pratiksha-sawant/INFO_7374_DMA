@@ -4,16 +4,23 @@
 
 https://codelabs-preview.appspot.com/?file_id=1_69ZjNUYdj2l1cHXMF6mnoencFInq1CGCmkLb5x4gEs#3
 
-## Use Case 1 : Customer Retention
+## Use Case 1 : Customer Attrition
 ### Machine Learning Models
 
+•	Models like Logistic Regression, XgBoost and ensembling implemented to classify the whether the customer would remain active or inactive
+•	Churn is indicated as boolean value True or False
+
 ### ML as a service
+
+Customer attrition predicted using AWS XGBoost algorithm on AWS Sagemaker which can be invoked by using REST APIs
 
 ---------------------------------------------------------------------------------------------------------------------------------
 ## Use Case 2 : Customer Lifetime Value Prediction
 ### Machine Learning Models
 
 ### ML as a service
+
+Customer Lifetime Value predicted using AWS XGBoost algorithm on AWS Sagemaker which can be invoked by using REST APIs
 
 ----------------------------------------------------------------------------------------
 ## Use Case 3 : Customer Segmentation
@@ -34,3 +41,7 @@ https://codelabs-preview.appspot.com/?file_id=1_69ZjNUYdj2l1cHXMF6mnoencFInq1CGC
 •	Models like KNN, Logistic Regression, RandomForest Classifier, SVM and Ensemble Modeling implemented to classify customers into different segments
  
 ### ML as a service
+
+Customer segmentation performed using AWS algorithm on AWS Sagemaker which can be invoked by using REST APIs
+
+
