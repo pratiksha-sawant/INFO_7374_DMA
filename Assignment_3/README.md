@@ -4,6 +4,10 @@
 
 https://codelabs-preview.appspot.com/?file_id=1_69ZjNUYdj2l1cHXMF6mnoencFInq1CGCmkLb5x4gEs#3
 
+## PowerBI link
+
+https://app.powerbi.com/view?r=eyJrIjoiYzJjMjJkY2ItNWFlZC00OTQzLWFmMGItNzJlZDgxNzc0YzM4IiwidCI6IjZhYmZjNzNmLWRhNjQtNDEzNy05ZjlmLTE1ZmFhZTU2ZjY4NSIsImMiOjN9
+
 ## Use Case 1 : Customer Attrition
 ### Machine Learning Models
 
