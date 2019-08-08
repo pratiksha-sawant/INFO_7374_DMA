@@ -6,7 +6,7 @@ Implementing marketing oriented blogs on Customer Persona, KPIs and Grwoth rate
 
 
 # Assignment 3
-Implementing machine learning on 3 use cases to resolve enhance customer engagement and product marketing 
+Implementing machine learning on 3 use cases to enhance customer engagement and product marketing 
 
 
 # Final Project
