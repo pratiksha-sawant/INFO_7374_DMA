@@ -19,21 +19,25 @@ http://54.175.239.95:5000/
 •	Please follow instructions in claat document to use our application (Point 8)
 
 ## Installation
-pip install Flask
 
-pip install pandas
+•	pip install Flask
 
-pip install numpy
+•	pip install pandas
 
-pip install requests
+•	pip install numpy
 
-pip install json
+•	pip install requests
 
-pip install google.cloud
+•	pip install json
 
-pip install google.oauth2
+•	pip install google.cloud
 
-pip install warnings
+•	pip install google.oauth2
+
+•	pip install warnings
+
+•	pip install matplotlib
+
 
 ## Recommendation Engine Model
 
