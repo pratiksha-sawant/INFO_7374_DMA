@@ -11,9 +11,13 @@ https://codelabs-preview.appspot.com/?file_id=1fNYAKwiUYsbJZLbcDYZZTkW_Ha2kke-41
 http://54.175.239.95:5000/
 
 ## Note
-### Replace the api key for Azure Machine Learning Model
-### Replace the json file for accessing the BigQuery Database
-### Please follow instructions in claat document to use our application
+
+•	Replace the api key for Azure Machine Learning Model
+
+•	Replace the json file for accessing the BigQuery Database
+
+
+•	Please follow instructions in claat document to use our application
 
 ## Installation
 pip install Flask
