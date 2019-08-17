@@ -8,3 +8,9 @@ https://codelabs-preview.appspot.com/?file_id=1fNYAKwiUYsbJZLbcDYZZTkW_Ha2kke-41
 ## WebApp
 http://54.175.239.95:5000/
 
+## Installation
+pip install Flask
+pip install pandas
+pip install numpy
+pip install 
+
