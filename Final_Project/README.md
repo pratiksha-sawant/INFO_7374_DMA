@@ -16,7 +16,7 @@ http://54.175.239.95:5000/
 
 •	Replace the json file for accessing the BigQuery Database
 
-•	Please follow instructions in claat document to use our application
+•	Please follow instructions in claat document to use our application (Point 8)
 
 ## Installation
 pip install Flask
